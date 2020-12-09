@@ -1,19 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <!-- import links  -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-  
-   <title>Virtuality </title>
+    
+  <title>Virtuality </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-    <!-- <nav class="navbar navbar-expand-md">
-        <a class="navbar-brand" href="#">logo</a>
+    <nav class="navbar navbar-expand-md">
+        <a class="navbar-brand" href="#">Logo</a>
         <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -31,34 +28,7 @@
           </ul>
         </div>
       </nav>
-    -->
-    <!-- <img src = "https://scontent.fprn3-1.fna.fbcdn.net/v/t1.0-9/105611383_111233450640859_651753420713735550_o.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=5JmnusCGS-UAX-sVdD8&_nc_ht=scontent.fprn3-1.fna&oh=12489506e989ef5e075adf5419a75b70&oe=5F5B994F" width = '300' , height = ' 300' class = 'center'></img> -->
-  <div class=" container ">
-    <div class = 'row row-centered pos'>
-      <div class="col-lg-6 col-xs-6 col-centered">
-        <div class="glitch"  data-text="Saini" style="font-stretch: expanded;">Šaini</div> 
-      </div>
-      <div class="col-lg-6 col-xs-6 col-centered">
-        <div class="glitch" data-text="Eror" >Eror</div> 
-      </div>
-      <!-- <div class="col-lg-12 col-xs-12 col-centered">
-        <div class="glitch" data-text="virtuality" >virtuality</div>
-      </div> -->
-     
-       
-      
-    </div>  
-    
-      
-        <div class="footer nav" >
-          
-        </div>
-      </a>
-  
-  
-    
-  </div>  
-  
+
 
 
 
