@@ -31,7 +31,7 @@ body {
     background-position: 0% 50%;
   }
 }
-.footer {
+/* .footer {
   position: fixed;
   left: 0;
   bottom: 0;
@@ -41,16 +41,43 @@ body {
   text-align: center !important;
   display: block;
   height: 12vh;
+} */
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: right;
+  height: 35px;
+  margin: 0px 50px 0px 0px;
+  background: #000000;
+  color: #000;
+  text-align: center;
+  padding: 10px 30px;
+  width: 180px;
+  color:white; 
 }
 
 .glitch {
+  padding-top:100px; 
   font-family: "Libre Barcode 39 Text";
+  /* font-family: "Major Mono Display"; */
   font-size: calc(1em + 12vw);
+  font-weight: bolder;
   color: white;
   position: relative;
   width: auto;
   margin: 0 auto;
   height: auto;
+}
+.link{
+  font-family :"Major Mono Display";
+  font-size: calc(1em + 1.2vw);
+  color:white ;
+  position: relative;
+  font-weight: bolder;
+  
+}
+.waydown{
+  padding-top:200px;
 }
 
 @keyframes noise-anim {
@@ -119,6 +146,7 @@ body {
   }
 }
 .glitch:after {
+  margin-top:100px;
   content: attr(data-text);
   position: absolute;
   left: 2px;
@@ -129,6 +157,21 @@ body {
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
   animation: noise-anim 2s infinite linear alternate-reverse;
+}
+.div1{
+  height:50vh;
+}
+
+a:hover {
+  background-color: white;
+  text-emphasis-color: black;
+ 
+}
+a:active {
+  color: yellow;
+}
+.link:hover{
+  color:black;
 }
 
 @keyframes noise-anim-2 {
@@ -197,6 +240,7 @@ body {
   }
 }
 .glitch:before {
+  margin-top:100px;
   content: attr(data-text);
   position: absolute;
   left: -2px;
@@ -204,7 +248,6 @@ body {
   top: 0;
   color: white;
   background: body;
-  overflow: hidden;
   clip: rect(0, 900px, 0, 0);
-  animation: noise-anim-2 3s infinite linear alternate-reverse;
+  animation: noise-anim-2 10s infinite linear alternate-reverse;
 }
