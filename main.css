@@ -54,7 +54,8 @@ canvas {
 }
 .link{
   font-family :"Major Mono Display";
-  font-size: calc(1em + 1.2vw);
+  /* font-size: calc(1em + 1.2vw); */
+  font-size: large;
   color:white ;
   position: relative;
   font-weight: bolder;
@@ -153,8 +154,9 @@ a:active {
   color: yellow;
 }
 .link:hover{
+  color:black;
+  background-color: white;
   
-  text-transform: unset;
 }
 
 @keyframes noise-anim-2 {
