@@ -1,15 +1,25 @@
-var w;
 
+
+var canvas; 
+var w ;
+
+function windowResized(){
+  resizeCanvas(windowWidth,windowHeight);
+}
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
-  w1 = new Wave(width, height, 1, 200, width);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.position(0,0);
+  canvas.style('z-index','-1');
+  w1 = new Wave(width/2, height/2, 1, 200, width);
+
+ 
 } 
 
 function draw() {
-  background(0,0,0,10);
-  w1.barwid = map(200, 0, width, 5, 1);
-  w1.maxhei = map(200, 0, height, height, 1);
+  background(245,245,245,10);
+  w1.barwid = map(mouseX, 0, width, 5, 1);
+  w1.maxhei = map(mouseY, 0, height, height, 1);
   w1.display();
 }
 //Wave Object
@@ -38,7 +48,8 @@ function Wave(x, y, barwid, maxhei, amount)
       this.b = map(sin(this.time+45+this.i/90), -1, 1, 0, 255);
       fill(this.r, this.g, this.b);
       //Hight depending on time and i
-  	  this.hei =windowHeight;
+      this.hei = map(tan(this.i/90 + this.time), -1, 1, 0, this.maxhei);
+      // this.hei = windowHeight/2;
       //Actual Draw
       strokeWeight(1);
       stroke(this.g, this.b, this.r);
