@@ -8,6 +8,19 @@ h1{
     font-size: 100px;
     font-weight: 5000;
 }
+img {
+  
+  padding-left:10px;
+  height: 140px;
+  width: auto;
+}
+span{
+  height:150px ; 
+  width: auto ; 
+}
+.margin{
+  margin-top: 100 px ;
+}
 .black-back{
   background-color: black;
 }
