@@ -1,10 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
-
-
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
 h1{
     color: black;
     font-family : "Libre Barcode 39 Text";
+    /* font-family :"Major Mono Display"; */
+
+    /* font-family:"Rubik"; */
     font-size: 100px;
     font-weight: 5000;
 }
@@ -31,11 +35,11 @@ span{
     position: absolute;
   }
   .padding{
-    padding-top:30px;
+    padding-top:50px;
     padding-bottom:5px;
   }
   .footer {
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
     height: 35px;
     margin: 0px 50px 0px 0px;
@@ -45,12 +49,14 @@ span{
     position: relative ;
   }
   .link{
-    font-family :"Major Mono Display";
+    
+    font-family:"Libre Barcode 39";
     /* font-size: calc(1em + 1.2vw); */
-    font-size: 20px;
+    /* font-family:"Rubik" ; */
+    font-size: 30px;
     color:black ;
     position: absolute;
-    font-weight: bolder;
+    font-weight: lighter;
     padding-top:10px;
     
   }
@@ -65,6 +71,9 @@ span{
   .link:hover{
     color:white;
     background-color: black;
+    font-family :"Major Mono Display";
+   
+    font-size:20px ;
     
   }
   .bottom-right{
@@ -72,3 +81,6 @@ span{
       top:1;
       right:1;
   }
+body{
+  background-color:(255,245,245,10);
+}
