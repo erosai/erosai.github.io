@@ -50,10 +50,8 @@ span{
   }
   .link{
     
-    font-family:"Libre Barcode 39";
-    /* font-size: calc(1em + 1.2vw); */
-    /* font-family:"Rubik" ; */
-    font-size: 30px;
+    font-family :"Major Mono Display";
+    font-size: 20px;
     color:black ;
     position: absolute;
     font-weight: lighter;
@@ -71,7 +69,7 @@ span{
   .link:hover{
     color:white;
     background-color: black;
-    font-family :"Major Mono Display";
+    
    
     font-size:20px ;
     
