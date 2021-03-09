@@ -8,16 +8,20 @@ var cnv ;
 
 
 let img;
+function windowResized(){
+	resizeCanvas(windowWidth/2,windowHeight/2);
+	cnv.position(windowWidth/4,windowHeight/4,'fixed');
+  }
 function preload() {
     img = loadImage('thaci.png');
     pes = loadImage('500.jpg');
 }
 function setup() {
   
-  canvas = createCanvas(600, 600);
+  cnv = createCanvas(600, 600);
   var x = (windowWidth - width) / 2;
   var y = (windowHeight - height) / 2;
-  canvas.position(x, y);
+  cnv.position(x, y);
   frameRate(5);
   snake = new Snake();
   pickLocation();

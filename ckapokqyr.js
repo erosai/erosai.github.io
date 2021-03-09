@@ -5,6 +5,10 @@ let t;
 let es = [];
 const CYCLE = 100;
 var cnv;
+function windowResized(){
+	resizeCanvas(windowWidth/2,windowHeight/2);
+	cnv.position(windowWidth/4,windowHeight/4,'fixed');
+  }
 
 function preload(){
 	mouthimg = loadImage('assets/mouth.png');
