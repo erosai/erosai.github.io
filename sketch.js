@@ -19,8 +19,8 @@ function setup() {
 
 function draw() {
   background(255,255,255,255);
-  w1.barwid = map(mouseX*10, 0, width, 5, 1);
-  w1.maxhei = map(mouseY*10, 0, height, height, 1);
+  w1.barwid = map(-1000, 0, width, 5, 1);
+  w1.maxhei = map(-1000, 0, height, height, 1);
   w1.display();
 }
 //Wave Object
@@ -43,9 +43,9 @@ function Wave(x, y, barwid, maxhei, amount)
       
       this.time = millis()/10000;
       
-      this.r = map(tan(this.time+this.i/90), -1, 1, 0, 255);
-      this.g = map(sin(this.time+22.5+this.i/90), mouseY*-1, 1, 0, 230);
-      this.b = map(sin(this.time+45+this.i/90), mouseX*-1, 1, 0, 230);
+      this.r = map(tan(this.time+this.i/90), 0, 1, 0, 255);
+      this.g = map(tan(this.time+22.5+this.i/90), 0, 1, 0, 255);
+      this.b = map(tan(this.time+45+this.i/90), 0, 1, 0, 255);
       fill(this.r, this.g, this.b);
       
       this.hei = map(tan(this.i/90 + this.time), -1, 1, 0, this.maxhei);
