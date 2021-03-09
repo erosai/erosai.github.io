@@ -12,6 +12,8 @@ var down=1.0;
 var cnv ; 
 function dome(){}
 
+
+
 function preload() {
     img = loadImage('thaci.png');
     pes = loadImage('500.jpg');
@@ -25,14 +27,14 @@ function windowResized(){
 function setup() {
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
 	cnv.position(windowWidth/4 , windowHeight/4 , 'fixed');
-	frameRate(35);
+	frameRate(50);
 }
 
 function mouseDragged() {}
 
 function draw() {
 	
-	background(255);
+	background(0);
 	push();
 	textSize(30)
 	textAlign(CENTER);
