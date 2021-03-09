@@ -4,6 +4,7 @@ var scl = 50 ;
 var food ; 
 
 var canvas ;
+var cnv ;
 
 
 let img;
@@ -12,6 +13,7 @@ function preload() {
     pes = loadImage('500.jpg');
 }
 function setup() {
+  
   canvas = createCanvas(600, 600);
   var x = (windowWidth - width) / 2;
   var y = (windowHeight - height) / 2;
@@ -30,7 +32,9 @@ function pickLocation(){
 }
 
 function draw(){
-  background(0,0,51,220);
+ // background(0,0,51,220);
+ 
+  background(0);
   snake.update(); 
   snake.show(); 
   snake.death();
@@ -125,15 +129,10 @@ function Snake() {
     textSize(32);
     text(totali, 10, 30);
     fill(255, 255, 255);
-    text(totali, 10, 60);
-    fill(0, 102, 153, 51);
-    text(totali, 10, 90);
-    fill(0, 102, 153, 51);
-    let r = random(0,500)
-    if(totali >= 100){    
-    text('PRONTO!', r, r);
+   
     
-    }
+    let r = random(0,500);
+  
    }
 
 }

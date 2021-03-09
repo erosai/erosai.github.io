@@ -4,13 +4,13 @@ var canvas;
 var w ;
 
 function windowResized(){
-  resizeCanvas(windowWidth/2,windowHeight);
-  canvas.position(windowWidth/4,0,'fixed');
+  resizeCanvas(windowWidth/2,windowHeight/2);
+  canvas.position(windowWidth/4,windowHeight/4,'fixed');
 }
 
 function setup() {
-  canvas = createCanvas(windowWidth/2, windowHeight);
-  canvas.position(windowWidth/4,0,'fixed');
+  canvas = createCanvas(windowWidth/2, windowHeight/2);
+  canvas.position(windowWidth/4,windowHeight/4,'fixed');
   canvas.style('z-index','-1');
   w1 = new Wave(width/2, height/2, 1, 200, width);
 
