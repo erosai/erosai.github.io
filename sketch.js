@@ -18,7 +18,7 @@ function setup() {
 } 
 
 function draw() {
-  background(255,245,245,10);
+  background(255,255,255,255);
   w1.barwid = map(mouseX*10, 0, width, 5, 1);
   w1.maxhei = map(mouseY*10, 0, height, height, 1);
   w1.display();
