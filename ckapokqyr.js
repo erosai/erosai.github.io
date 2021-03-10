@@ -5,13 +5,13 @@ let t;
 let es = [];
 const CYCLE = 100;
 var cnv;
-function windowResized(){
-	resizeCanvas(windowWidth/2,windowHeight/2);
-	cnv.position(windowWidth/4,windowHeight/4,'fixed');
-  }
+// function windowResized(){
+// 	resizeCanvas(windowWidth/2,windowHeight/2);
+// 	cnv.position(windowWidth/4,windowHeight/4,'fixed');
+//   }
 
 function preload(){
-	mouthimg = loadImage('assets/mouth.png');
+	si = loadImage('assets/si.png');
 }
 function setup() {
     cnv = createCanvas(windowWidth/2, windowHeight/2, WEBGL);
@@ -32,9 +32,9 @@ function setup() {
 
 function draw() {
   background(255);
- 
+   
 	//culclate mousePos
-  let x = mouseX - width / 2;
+  let x =(mouseX - height / 2);
   let y = (mouseY - height / 2)*-1;
 	/*
 	let radius = 200;
@@ -44,7 +44,7 @@ function draw() {
   const Q = createVector(0, 0, eyeZ); // A point on the ray and the default position of the camera.
   const v = createVector(x, y, -eyeZ); // The direction vector of the ray.
   let intersect; // The point of intersection between the ray and a plane.
-  let closestLambda = eyeZ * 10; // The draw distance.
+  let closestLambda = eyeZ * 5; // The draw distance.
 	let lambda = wall.getLambda(Q, v); // The value of lambda where the ray intersects the object
 	if (lambda < closestLambda && lambda > 0)
 	{
@@ -60,6 +60,8 @@ function draw() {
 		item.update();
 		item.display();
 	}
+	
+
 }
  
 
@@ -70,9 +72,11 @@ function init()
 	for(let y = 0; y <= 4; y+=span)
 	{
 		for(let x = 0; x <= 4; x+=span)
-		{
+		{   
+			
 			es.push(new Eye(createVector(x-50,y,0),span*0.4));
 			es.push(new Eye(createVector(x+50,y,0),span*0.4));
+		
 		}
 	}
 }
