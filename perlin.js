@@ -7,6 +7,7 @@ function setup() {
     frameRate([60])
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
     cnv.position(windowWidth/4,windowHeight/4,'fixed');
+	canvas.style('z-index','-1');
 	background(241);
 	noiseDetail(2)
 	colorMode(HSB, 200)
