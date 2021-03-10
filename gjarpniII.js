@@ -27,6 +27,7 @@ function windowResized(){
 function setup() {
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
 	cnv.position(windowWidth/4 , windowHeight/4 , 'fixed');
+	
 	frameRate(50);
 }
 

@@ -11,6 +11,7 @@ let img;
 function windowResized(){
 	resizeCanvas(windowWidth/2,windowHeight/2);
 	cnv.position(windowWidth/4,windowHeight/4,'fixed');
+    canvas.style('z-index','-1');
   }
 function preload() {
     img = loadImage('thaci.png');
