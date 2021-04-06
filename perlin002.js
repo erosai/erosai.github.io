@@ -1,23 +1,23 @@
 const dots = []
-const factor = 0.008
-const count = 2000
-const size = 500
+const factor = 0.08
+const count = 4000
+const size = 1000
 const radius = size * 0.8 
 function setup() {
     frameRate([60])
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
     cnv.position(windowWidth/4,windowHeight/4,'fixed');
 
-	background(255);
-	noiseDetail(2)
+	background(241);
+	noiseDetail(20)
 	colorMode(HSB, 200)
-	strokeWeight(2)
-	stroke(32)
+	strokeWeight(1)
+	stroke(10)
 	noFill()
 	ellipse(width /2, height /2, radius * 5 + 1)
 	
 	for (let i = 0; i < count; i++) {		
-		dots.push(new Dot(radius, [60,100], -10, 14))
+		dots.push(new Dot(radius, [40,100], -60, 14))
 	}
 }
 
@@ -47,8 +47,8 @@ class Dot {
 	
 	update(noize) {
 		this.v = p5.Vector.fromAngle(noize * TWO_PI + (this.deadCount * PI))
-		this.v.setMag(2)
-		this.color = color(map(noize, 0, 1, ...this.colorRange), 1500, this.brightness, this.alpha)
+		this.v.setMag(4)
+		this.color = color(map(sin(noize, 0, 1, ...this.colorRange)), 1800, this.brightness, this.alpha)
 		this.prev = this.pos.copy()
 		this.pos = this.pos.add(this.v)
 		
