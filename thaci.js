@@ -24,27 +24,30 @@ function draw(){
     
     if(count % 3 === 0){
         image(thaci01 , width/4 , height/4, width/2 , height/2);
-        redraw();
+      
     }
     if(count % 3 === 1){
         image(thaci02 , width/4 , height/4, width/2 , height/2);
-        redraw();
+        
     }
     if(count % 3 === 2){
-        image(thaci03 , width/4 , height/4, width/2 , height/2);
-        redraw();
-        for(var i = 0 ; i < 100 ; i +=10 ){
+        
+        
+        for(var i = 0 ; i < width ; i +=width/8 ){
+            for(var j = 20 ; j < height ; j += height/8){
             var rnd = random(10,40);
             var rend = random (0 , height);
             var rond = random (0 , width ); 
-            textSize(rnd);
+            textSize(width/40);
             push();
-            textStyle('z-index' , '-2');
-            fill(rnd * 3, rnd* 4 , rnd* 5);
-            translate(rond - 10  , rend - 10);
-            text('PRONTO ! ' , rnd , rnd );
+         
+            fill(rnd *2  + (100 * noise(millis())), rnd * 2 +(100 * noise(millis())) , rnd * 3 +(100 * noise(millis())));
+            translate(i , j);
+            text('PRONTO ! ' , 10 , 10 );
             pop();
+         }
         }
+        image(thaci03 , width/4 , height/4, width/2 , height/2);
     }
     
 }
