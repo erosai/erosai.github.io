@@ -1,23 +1,69 @@
+var particles_a = [];
+var particles_b = [];
+var particles_c = [];
+var nums =2000;
+var noiseScale = 8000;
 
 
 function setup(){
-    createCanvas(800,800);
+	var myCanvas = createCanvas(winWidth, winHeight);
+    myCanvas.parent("canv");
+	background(255, 255, 255);
+	for(var i = 0; i < nums; i++){
+		particles_a[i] = new Particle(random(0, width),random(0,height));
+		particles_b[i] = new Particle(random(0, width),random(0,height));
+		particles_c[i] = new Particle(random(0, width),random(0,height));
+	}
 }
 
-function draw (){
+function draw(){
+	noStroke();
+	smooth();
+		for(var i = 0; i < nums; i++){
+		var radius = map(i,0,nums,1,2);
+		var alpha = map(i,0,nums,0,250);
 
-    loadPixels();
-    for(var x = 0 ; x < width ; x ++){
-        for(var y = 0 ; y < height ; y ++){
-            var index = (x + y * width) *4 ;
-            var r = random(255);
-            pixels[index ] = r; 
-            pixels[index+1] = r; 
-            pixels[index+2] = r ;
-            pixels[index+3] = r ;
+		fill(250, 242, 7,alpha);
+		particles_a[i].move();
+		particles_a[i].display(radius);
+		particles_a[i].checkEdge();
 
-        }
-    }
-    
+		fill(1, 23, 145,alpha);
+		particles_b[i].move();
+		particles_b[i].display(radius);
+		particles_b[i].checkEdge();
 
+		fill(7,153,242,alpha);
+		particles_c[i].move();
+		particles_c[i].display(radius);
+		particles_c[i].checkEdge();
+	}  
+}
+
+
+function Particle(x, y){
+	this.dir = createVector(0, 0);
+	this.vel = createVector(0, 0);
+	this.pos = createVector(x, y);
+	this.speed = 0.012;
+
+	this.move = function(){
+		var angle = noise(this.pos.x/noiseScale, this.pos.y/noiseScale)*TWO_PI*noiseScale;
+		this.dir.x = cos(angle);
+		this.dir.y = sin(angle);
+		this.vel = this.dir.copy();
+		this.vel.mult(this.speed);
+		this.pos.add(this.vel);
+	}
+
+	this.checkEdge = function(){
+		if(this.pos.x > width || this.pos.x < 0 || this.pos.y > height || this.pos.y < 0){
+			this.pos.x = random(50, width);
+			this.pos.y = random(50, height);
+		}
+	}
+
+	this.display = function(r){
+		ellipse(this.pos.x, this.pos.y, r, r);
+	}
 }
