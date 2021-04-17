@@ -5,6 +5,7 @@ function preload() {
     thaci01 = loadImage('/assets/thaci01.png');
     thaci02 = loadImage('/assets/thaci02.png');
     thaci03 = loadImage('/assets/thaci03.png');
+    click = loadImage('/assets/8-86099_mouse-cursor-click-clipart-hand-cursor-hand-click.png')
 }
 
 function setup(){
@@ -12,17 +13,19 @@ function setup(){
     cnv = createCanvas(windowWidth/2, windowHeight/2);
     cnv.position(windowWidth/4,windowHeight/4);
     frameRate(10);
+    colorMode(HSB, 100);
 }
 
 function draw(){
     background(255);
     textSize(32);
-    // if(count === 0 ){
-    // text("Press mouse to put mask on",30 ,30);
     
-    // }
+    if(count === 0){
+        //image(click, 30 , 30 , 100,100);
+    }
     
     if(count % 3 === 0){
+      
         image(thaci01 , width/4 , height/4, width/2 , height/2);
       
     }
@@ -44,6 +47,7 @@ function draw(){
             fill(rnd *2  + (100 * noise(millis())), rnd * 2 +(100 * noise(millis())) , rnd * 3 +(100 * noise(millis())));
             translate(i , j);
             text('PRONTO ! ' , 10 , 10 );
+           
             pop();
          }
         }

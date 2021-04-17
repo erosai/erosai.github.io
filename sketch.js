@@ -22,6 +22,9 @@ function draw() {
   w1.barwid = map(-1000, 0, width, 5, 1);
   w1.maxhei = map(-1000, 0, height, height, 1);
   w1.display();
+  // textSize(30);
+  // fill(255);
+  // text('erosai',width/4,height/4)
 }
 //Wave Object
 function Wave(x, y, barwid, maxhei, amount)
