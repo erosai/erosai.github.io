@@ -1,6 +1,11 @@
 var gl,noctaves;
+
+function windowResized(){
+	resizeCanvas(windowWidth/2,windowHeight/2);
+	canvas.position(windowWidth/4,windowHeight/4,'fixed');
+}
 function setup() {
-    cnv = createCanvas(800, 600,WEBGL);
+    cnv = createCanvas(windowWidth/1.2, windowHeight/2, WEBGL);
     var x = (windowWidth - width) / 2;
     var y = (windowHeight - height) / 2;
     cnv.position(x, y);

@@ -1,20 +1,20 @@
 const dots = []
-const factor = 0.008
-const count = 2000
-const size = 500
-const radius = size * 0.8 
+const factor = 0.0020
+const count = 1500
+const size = 600
+const radius = size * 1
 function setup() {
     frameRate([60])
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
     cnv.position(windowWidth/4,windowHeight/4,'fixed');
 
 	background(255);
-	noiseDetail(2)
+	noiseDetail(100)
 	colorMode(HSB, 200)
-	strokeWeight(2)
+	strokeWeight(1)
 	stroke(32)
 	noFill()
-	ellipse(width /2, height /2, radius * 5 + 1)
+
 	
 	for (let i = 0; i < count; i++) {		
 		dots.push(new Dot(radius, [60,100], -10, 14))
