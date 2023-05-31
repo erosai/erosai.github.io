@@ -10,7 +10,7 @@ function windowResized(){
 
 function setup() {
   canvas = createCanvas(windowWidth/2, windowHeight/2);
-  canvas.position(windowWidth/4,windowHeight/4,'fixed');
+  canvas.position(windowWidth/4,windowHeight/8,'fixed');
   canvas.style('z-index','-1');
   w1 = new Wave(width/2, height/2, 1, 200, width);
 
@@ -20,11 +20,9 @@ function setup() {
 function draw() {
   background(255,255,255,255);
   w1.barwid = map(-1000, 0, width, 5, 1);
-  w1.maxhei = map(-1000, 0, height, height, 1);
+  w1.maxhei = map(-500, 0, height, height, 1);
   w1.display();
-  // textSize(30);
-  // fill(255);
-  // text('erosai',width/4,height/4)
+
 }
 //Wave Object
 function Wave(x, y, barwid, maxhei, amount)

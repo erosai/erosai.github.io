@@ -1,87 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap');
+
 
 h1 {
-  color: black;
-  font-family: "Libre Barcode 39 Text";
-  /* font-family :"Major Mono Display"; */
-
-  /* font-family:"Rubik"; */
+  font-family: 'JetBrains Mono', monospace;
   font-size: 100px;
   font-weight: 5000;
 }
-font {
-  font-family: "Roboto Mono";
-}
 
-img {
-  padding-left: 10px;
-  height: 140px;
-  width: auto;
-}
-span {
-  height: 150px;
-  width: auto;
-}
-.margin {
-  margin-top: 100 px;
-}
-.black-back {
-  background-color: black;
-}
-.position {
-  display: block;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-}
-.padding {
-  padding-top: 50px;
-  padding-bottom: 5px;
-}
-.footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
-  height: 35px;
-  margin: 0px 50px 0px 0px;
-  text-align: center;
+main{
+  max-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
   width: 100%;
-  color: black;
-  position: relative;
 }
-.link {
-  font-family: "Roboto Mono";
-  font-size: 20px;
-  color: black;
-  position: absolute;
-  font-weight: lighter;
-  padding-top: 10px;
-}
-a:hover {
-  background-color: black;
-  text-emphasis-color: black;
-}
-backdrops {
-  z-index: 0;
-}
-a:active {
-  color: yellow;
-}
-.link:hover {
-  color: white;
-  background-color: black;
-
-  font-size: 20px;
-}
-.bottom-right {
-  position: absolute;
-  top: 1;
-  right: 1;
-}
-body {
-  background-color: (255, 245, 245, 10);
+p{
+  font-family: 'JetBrains Mono', monospace;
 }
