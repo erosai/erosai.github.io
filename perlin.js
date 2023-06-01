@@ -1,13 +1,13 @@
 const dots = []
-const factor = 0.0062
-const count = 450
+const factor = 0.0102
+const count = 150
 const size = 200
 const radius = size * 0.9
 function setup() {
     frameRate([60])
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
     cnv.position(windowWidth/4,windowHeight/8,'fixed');
-
+	const width = (windowWidth + windowHeight) / 4;
 	background(255);
 	noiseDetail(100)
 	colorMode(HSB, 200)
@@ -17,7 +17,7 @@ function setup() {
 
 	
 	for (let i = 0; i < count; i++) {	const rand = random(PI)
-		dots.push(new Dot(radius, [2,200 * rand], rand * 100, 14))
+		dots.push(new Dot(width/4 , [2,200 * rand], rand * 100, 14))
 	}
 }
 
