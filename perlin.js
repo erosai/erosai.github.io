@@ -16,8 +16,8 @@ function setup() {
 	noFill()
 
 	
-	for (let i = 0; i < count; i++) {		
-		dots.push(new Dot(radius, [10,100], -10, 14))
+	for (let i = 0; i < count; i++) {	const rand = random(PI)
+		dots.push(new Dot(radius, [2,200 * rand], rand * 100, 14))
 	}
 }
 
@@ -25,7 +25,7 @@ function draw() {
 	for (let i = 0; i < dots.length; i++) {
 		const rand = random(PI)
 		const dot = dots[i]
-		n = noise(dot.pos.x * factor, dot.pos.y * factor / rand)
+		n = noise(dot.pos.x * factor, dot.pos.y * factor )
 		dot.update(n)
 		dot.draw()
 	}
