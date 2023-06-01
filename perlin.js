@@ -1,30 +1,31 @@
 const dots = []
-const factor = 0.0020
-const count = 1500
-const size = 600
-const radius = size * 1
+const factor = 0.0062
+const count = 450
+const size = 200
+const radius = size * 0.9
 function setup() {
     frameRate([60])
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
-    cnv.position(windowWidth/4,windowHeight/4,'fixed');
+    cnv.position(windowWidth/4,windowHeight/8,'fixed');
 
 	background(255);
 	noiseDetail(100)
 	colorMode(HSB, 200)
-	strokeWeight(1)
-	stroke(32)
+	strokeWeight(4)
+	stroke(44)
 	noFill()
 
 	
 	for (let i = 0; i < count; i++) {		
-		dots.push(new Dot(radius, [60,100], -10, 14))
+		dots.push(new Dot(radius, [10,100], -10, 14))
 	}
 }
 
 function draw() {
 	for (let i = 0; i < dots.length; i++) {
+		const rand = random(PI)
 		const dot = dots[i]
-		n = noise(dot.pos.x * factor, dot.pos.y * factor)
+		n = noise(dot.pos.x * factor, dot.pos.y * factor / rand)
 		dot.update(n)
 		dot.draw()
 	}
