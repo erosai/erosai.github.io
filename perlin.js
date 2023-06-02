@@ -1,23 +1,24 @@
 const dots = []
-const factor = 0.0102
+const factor = 0.0052
 const count = 150
-const size = 200
-const radius = size * 0.9
+const size = 1000
+const radius = size * 2
 function setup() {
-    frameRate([60])
+    frameRate([30])
 	cnv = createCanvas(windowWidth/2, windowHeight/2);
     cnv.position(windowWidth/4,windowHeight/8,'fixed');
-	const width = (windowWidth + windowHeight) / 4;
-	background(255);
+	const width = (windowWidth + windowHeight) /4;
+	background('#F5FFFA');
+
 	noiseDetail(100)
 	colorMode(HSB, 200)
-	strokeWeight(4)
-	stroke(44)
+	strokeWeight("5px")
+	stroke(10)
 	noFill()
 
 	
-	for (let i = 0; i < count; i++) {	const rand = random(PI)
-		dots.push(new Dot(width/4 , [2,200 * rand], rand * 100, 14))
+	for (let i = 0; i < count; i++) {	const rand = random(TWO_PI) ; const rand2 = random(100);
+		dots.push(new Dot(width/4, [rand,70 * rand], rand * 100, 8 ))
 	}
 }
 
@@ -34,11 +35,13 @@ function draw() {
 class Dot {
 	constructor (radius, colorRange, brightness, alpha) {
 		const r = random(TWO_PI)
-		const x = width / 2 + sin(r) * radius
-		const y = height / 2 + cos(r) * radius
+		const s = random(100)
+		const d = random(100)
+		const x = width / 2 + sin(r) * s
+		const y = height / 2 + cos(r) * d
 		this.pos = createVector(x,y)
 		this.prev = createVector(x,y)
-		this.color = color(0)
+		this.color = color(20)
 		this.deadCount = 0
 		this.radius = radius
 		this.colorRange = colorRange
@@ -47,9 +50,10 @@ class Dot {
 	}
 	
 	update(noize) {
-		this.v = p5.Vector.fromAngle(noize * TWO_PI + (this.deadCount * PI))
-		this.v.setMag(2)
-		this.color = color(map(noize, 0, 1, ...this.colorRange), 1500, this.brightness, this.alpha)
+		const r = random(32)
+		this.v = p5.Vector.fromAngle(noize * r + (this.deadCount  + TWO_PI * r ))
+		this.v.setMag(10)
+		this.color = color(map(noize, 0, 1, ...this.colorRange), 100 * r, this.brightness, this.alpha)
 		this.prev = this.pos.copy()
 		this.pos = this.pos.add(this.v)
 		
