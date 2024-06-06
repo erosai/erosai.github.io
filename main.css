@@ -1,21 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap');
-
-body{
-  background-color:#F5FFFA;}
+body {
+  background-color: #f5fffa;
+}
 h1 {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 100px;
   font-weight: 5000;
 }
 
-main{
+main {
   max-height: 100vh;
   flex-direction: column;
   justify-content: center;
   align-items: end;
   width: 100%;
 }
-p{
-  font-family: 'JetBrains Mono', monospace;
+p {
+  font-family: "JetBrains Mono", monospace;
+}
+canvas {
+  position: absolute;
+  pointer-events: none;
+  z-index: -1;
 }
