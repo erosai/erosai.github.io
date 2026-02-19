@@ -1,0 +1,1360 @@
+{
+  "version": 1,
+  "generated_at": "2026-02-19 19:31:35",
+  "supplier_file": "21.02.26.xlsx",
+  "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
+  "items_count": 193,
+  "items": [
+    {
+      "gtin": "3337871322243",
+      "name": "Shampon Vichy Energy, 400ml",
+      "price_with_vat": 29.46,
+      "old_price_with_vat": 29.46,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875832724",
+      "name": "Krem për fytyrë Vichy Liftactiv B3 Anti-Dark Spots Cream SPF50, 50ml",
+      "price_with_vat": 54.92,
+      "old_price_with_vat": 54.92,
+      "stock_quantity": 32
+    },
+    {
+      "gtin": "3337875810838",
+      "name": "Krem mbrojtës ndaj diellit Vichy Capital Soleil Kids, SPF 50+, 200 ml",
+      "price_with_vat": 29.5,
+      "old_price_with_vat": 29.5,
+      "stock_quantity": 18
+    },
+    {
+      "gtin": "3337875807043",
+      "name": "Krem për fytyrë La Roche Posay Rosaliac Anti-Redness Correcting Moisturizer, 40 ml",
+      "price_with_vat": 33.1,
+      "old_price_with_vat": 33.1,
+      "stock_quantity": 27
+    },
+    {
+      "gtin": "3337875863964",
+      "name": "Krem për fytyrë La Roche-Posay Toleriane Fluid Corrector SPF25, 30ml",
+      "price_with_vat": 31.5,
+      "old_price_with_vat": 31.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875803786",
+      "name": "Krem për fytyrë La Roche-Posay Lipikar Baume Light, 400ml",
+      "price_with_vat": 32.75,
+      "old_price_with_vat": 32.75,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875722520",
+      "name": "Krem për fytyrë Vichy Liftactiv Collagen Specialist, Night, 50ml",
+      "price_with_vat": 57.22,
+      "old_price_with_vat": 57.22,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875803847",
+      "name": "Krem La Roche-Posay Lipikar Baume Light Eco, 200ml",
+      "price_with_vat": 27.0,
+      "old_price_with_vat": 27.0,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875806961",
+      "name": "Krem La Roche-Posay Toleriane Rosaliac AR SPF30, 50ml",
+      "price_with_vat": 31.9,
+      "old_price_with_vat": 31.9,
+      "stock_quantity": 44
+    },
+    {
+      "gtin": "3337871330125",
+      "name": "Pastrues për fytyrë Vichy Pureté Thermale Fresh Cleansing Gel, 200ml",
+      "price_with_vat": 20.69,
+      "old_price_with_vat": 20.69,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875777759",
+      "name": "Krem për fytyrë La Roche-Posay Effaclar H Iso-Biome Lavante Cream, 200ml",
+      "price_with_vat": 22.99,
+      "old_price_with_vat": 22.99,
+      "stock_quantity": 12
+    },
+    {
+      "gtin": "3337875572606",
+      "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Vanilla 20, 30ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875660648",
+      "name": "Krem kundër akneve Vichy Normaderm SOS, 20 ml",
+      "price_with_vat": 22.63,
+      "old_price_with_vat": 22.63,
+      "stock_quantity": 16
+    },
+    {
+      "gtin": "3337875613668",
+      "name": "Krem për fytyrë La Roche-Posay Hyalu B5 Eyes, 15ml",
+      "price_with_vat": 31.54,
+      "old_price_with_vat": 31.54,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875675000",
+      "name": "Pastrues për fytyrë Vichy Pureté Thermale Mineral Micellar Milk, 400ml",
+      "price_with_vat": 23.07,
+      "old_price_with_vat": 23.07,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875821636",
+      "name": "Serum për fytyrë Vichy Liftactiv Retinol Specialist Serum, 30ml",
+      "price_with_vat": 51.0,
+      "old_price_with_vat": 51.0,
+      "stock_quantity": 47
+    },
+    {
+      "gtin": "3337875831888",
+      "name": "Krem për fytyrë Vichy Minéral 89 72H Moisture, 50 ml",
+      "price_with_vat": 32.86,
+      "old_price_with_vat": 32.86,
+      "stock_quantity": 11
+    },
+    {
+      "gtin": "3337871311346",
+      "name": "Shampon Vichy Dercos Oil Control Shampoo, 200ml",
+      "price_with_vat": 19.22,
+      "old_price_with_vat": 19.22,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875774031",
+      "name": "Krem për fytyrë Vichy Neovadiol Post-Menopause, Day, 50ml",
+      "price_with_vat": 47.8,
+      "old_price_with_vat": 47.8,
+      "stock_quantity": 8
+    },
+    {
+      "gtin": "3337875774086",
+      "name": "Krem për fytyrë Vichy Neovadiol Peri-Menopause Revitalizues, Night, 50ml",
+      "price_with_vat": 49.0,
+      "old_price_with_vat": 49.0,
+      "stock_quantity": 25
+    },
+    {
+      "gtin": "8809864752504",
+      "name": "Krem dielli Kaine Green Fit Pro Sun, 55ml",
+      "price_with_vat": 20.99,
+      "old_price_with_vat": 20.99,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "769915196504",
+      "name": "Serum The Ordinary Hyaluronic Acid 2% + B5, 30ml",
+      "price_with_vat": 15.7,
+      "old_price_with_vat": 15.7,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "769915196498",
+      "name": "Toner për fytyrë The Ordinary Glycolic Acid 7% Toning Solution, 240ml",
+      "price_with_vat": 19.99,
+      "old_price_with_vat": 19.99,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8806182590139",
+      "name": "Maskë për fytyrë The Face Shop Real Nature Face Mask With Tea Tree Extract",
+      "price_with_vat": 2.8,
+      "old_price_with_vat": 2.8,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8806182590191",
+      "name": "Maskë për fytyrë The Face Shop Real Nature Face Mask With Aloe Extract",
+      "price_with_vat": 2.8,
+      "old_price_with_vat": 2.8,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809738316412",
+      "name": "Serum për fytyrë Beauty of Joseon Soothing Face Serum Green Tea + Panthenol (Calming Serum), 30 ml",
+      "price_with_vat": 19.99,
+      "old_price_with_vat": 19.99,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809598450981",
+      "name": "Peceta kundër akneve Cosrx Ac Collection Acne Patch, 26 copë",
+      "price_with_vat": 9.5,
+      "old_price_with_vat": 9.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809581456549",
+      "name": "Maskë për fytyrë Missha Mascure Hydra Solution Sheet Mask",
+      "price_with_vat": 2.8,
+      "old_price_with_vat": 2.8,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809581456587",
+      "name": "Maskë për fytyrë Missha Mascure Moisture Barried Solution Sheet Mask",
+      "price_with_vat": 2.8,
+      "old_price_with_vat": 2.8,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809581454712",
+      "name": "Maskë për fytyrë Missha Airy Fit Sheet Mask-Cucumber",
+      "price_with_vat": 2.8,
+      "old_price_with_vat": 2.8,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337872419522",
+      "name": "Krem për sy La Roche Posay Toleriane Ultra Eye, 20ml",
+      "price_with_vat": 22.1,
+      "old_price_with_vat": 22.1,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875696579",
+      "name": "Balsam La Roche-Posay Lipikar Baume Ap+, 200 ml",
+      "price_with_vat": 25.16,
+      "old_price_with_vat": 25.16,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875656771",
+      "name": "Vaj pastrues La Roche Posay Lipikar Ap+, 200ml",
+      "price_with_vat": 14.9,
+      "old_price_with_vat": 14.9,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337872413032",
+      "name": "Krem La Roche Posay Rosaliac AR Intense, 40ml",
+      "price_with_vat": 29.23,
+      "old_price_with_vat": 29.23,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875930239",
+      "name": "Losion La Roche Posay Lipikar Baume Ap+M, 400ml",
+      "price_with_vat": 33.82,
+      "old_price_with_vat": 33.82,
+      "stock_quantity": 13
+    },
+    {
+      "gtin": "3337875586283",
+      "name": "Krem Vichy Slow Age Night Cream & Mask, 50 ml",
+      "price_with_vat": 41.52,
+      "old_price_with_vat": 41.52,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "5905076797319",
+      "name": "Set Antiperspirant Roll-On – Invisible Resist 72H, 2 x 50 ml",
+      "price_with_vat": 25.99,
+      "old_price_with_vat": 25.99,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875597395",
+      "name": "Losion hidratues CeraVe Moisturizing, 473 ml",
+      "price_with_vat": 15.99,
+      "old_price_with_vat": 15.99,
+      "stock_quantity": 97
+    },
+    {
+      "gtin": "3337875597333",
+      "name": "Krem pastrues CeraVe Hydrating Cleanser, 473 ml",
+      "price_with_vat": 14.2,
+      "old_price_with_vat": 14.2,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875886055",
+      "name": "Sprej mbrojtës kundër diellit për fëmijë La Roche-Posay Anthelios UVMune 400 Dermo‑Pediatrics Invisible Spray SPF 50+, 200ml",
+      "price_with_vat": 31.99,
+      "old_price_with_vat": 31.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875799348",
+      "name": "Sprej kundër diellit La Roche‑Posay Anthelios Family Spray SPF 50+, 300 ml",
+      "price_with_vat": 39.99,
+      "old_price_with_vat": 39.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875782357",
+      "name": "Xhel kundër shenjave CeraVe Blemish Control Gel, 40 ml",
+      "price_with_vat": 17.19,
+      "old_price_with_vat": 17.19,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875773430",
+      "name": "Pastrues CeraVe Hydrating Foaming Oil, 236 ml",
+      "price_with_vat": 15.29,
+      "old_price_with_vat": 15.29,
+      "stock_quantity": 85
+    },
+    {
+      "gtin": "3337875743563",
+      "name": "Krem shkumë pastruese CeraVe, 236ml",
+      "price_with_vat": 17.29,
+      "old_price_with_vat": 17.29,
+      "stock_quantity": 91
+    },
+    {
+      "gtin": "3337875917872",
+      "name": "Krem mbrojtës ndaj diellit La Roche-Posay Anthelios UVMune 400 Face & Body Hydrating Milk SPF 50+, 150ml",
+      "price_with_vat": 29.99,
+      "old_price_with_vat": 29.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875585231",
+      "name": "Losion Vichy Idéal Soleil SPF 50+ 50 ml",
+      "price_with_vat": 29.99,
+      "old_price_with_vat": 29.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875797467",
+      "name": "Xhel-krem mbrojtës ndaj diellit La Roche Posay SPF 50+ Anthelios Oil Correct, 50 ml",
+      "price_with_vat": 35.99,
+      "old_price_with_vat": 35.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875847292",
+      "name": "Krem mbrojtës ndaj diellit La Roche Posay Anthelios UVmune 400 SPF50+, 50ml",
+      "price_with_vat": 28.99,
+      "old_price_with_vat": 28.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875840620",
+      "name": "Krem hidratues CeraVe AM Facial Moisturising Lotion SPF30, 52ml",
+      "price_with_vat": 16.99,
+      "old_price_with_vat": 16.99,
+      "stock_quantity": 93
+    },
+    {
+      "gtin": "3337875904285",
+      "name": "Losion hidratues CeraVe Intensive Moisturising Lotion, 236ml",
+      "price_with_vat": 16.99,
+      "old_price_with_vat": 16.99,
+      "stock_quantity": 71
+    },
+    {
+      "gtin": "3337875904513",
+      "name": "Krem për fytyrë CeraVe Oil Control Moisturizing Gel-Cream, 52 ml",
+      "price_with_vat": 18.99,
+      "old_price_with_vat": 18.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3606000560833",
+      "name": "Serum hidratues CeraVe Hydrating Hyaluronic Acid Serum, 30ml",
+      "price_with_vat": 22.99,
+      "old_price_with_vat": 22.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875598774",
+      "name": "Pastrues për lëkurë të yndyrshme CeraVe, 1L",
+      "price_with_vat": 25.99,
+      "old_price_with_vat": 25.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875904315",
+      "name": "Losion hidratues CeraVe Intensive Moisturising Lotion, 473ml",
+      "price_with_vat": 19.99,
+      "old_price_with_vat": 19.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875848459",
+      "name": "Krem riparues për fytyrë dhe trup CeraVe, 88ml",
+      "price_with_vat": 14.99,
+      "old_price_with_vat": 14.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875829007",
+      "name": "Serum për fytyrë CeraVe Resurfacing Retinol, 30ml",
+      "price_with_vat": 21.99,
+      "old_price_with_vat": 21.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875598750",
+      "name": "Losion-qumësht hidratues për lëkurë të thatë CeraVe, 1L",
+      "price_with_vat": 29.99,
+      "old_price_with_vat": 29.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875597296",
+      "name": "Krem për këmbë CeraVe Renewing Foot Cream, 88ml",
+      "price_with_vat": 16.79,
+      "old_price_with_vat": 16.79,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875909235",
+      "name": "Serum La Roche-Posay Pure Vitamin C12, 30ml",
+      "price_with_vat": 52.92,
+      "old_price_with_vat": 52.92,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875797641",
+      "name": "Krem mbrojtës me ngjyrë La Roche Posay Anthelios UVmune 400 Tinted Fluid SPF50+, 50ml",
+      "price_with_vat": 28.63,
+      "old_price_with_vat": 28.63,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875764353",
+      "name": "Krem mbrojtës me ngjyrë La Roche-Posay Anthelios Age Correct SPF50, 50 ml",
+      "price_with_vat": 35.72,
+      "old_price_with_vat": 35.72,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875797719",
+      "name": "Krem hidratues La Roche-Posay Anthelios UVMune 400, SPF50+, 50ml",
+      "price_with_vat": 26.37,
+      "old_price_with_vat": 26.37,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "5905076625179",
+      "name": "Set La Roche-Posay Effaclar Duo+M, Krem, 40ml + Xhel për pastrim, 200ml",
+      "price_with_vat": 39.9,
+      "old_price_with_vat": 39.9,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875876940",
+      "name": "Krem La Roche-Posay Cicaplast Repairing Baume B5+ SPF50, 40ml",
+      "price_with_vat": 18.77,
+      "old_price_with_vat": 18.77,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875863377",
+      "name": "Kremë kundër akneve La Roche-Posay Effaclar Duo +M, 40ml",
+      "price_with_vat": 25.92,
+      "old_price_with_vat": 25.92,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875597449",
+      "name": "Losion hidratues CeraVe PM Facial Moisturising Lotion, 52ml",
+      "price_with_vat": 17.15,
+      "old_price_with_vat": 17.15,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875597197",
+      "name": "Pastrues për lëkurë të yndyrshme CeraVe, 236 ml",
+      "price_with_vat": 13.2,
+      "old_price_with_vat": 13.2,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875797597",
+      "name": "Krem mbrojtës ndaj diellit për fytyrë La Roche Posay Fluid SPF 50+ Anthelios UVMune 400, 50 ml",
+      "price_with_vat": 28.63,
+      "old_price_with_vat": 28.63,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875414067",
+      "name": "Trajtues Vichy Normaderm 3-in-1 Scrub + Pastrues + Maskë, 125ml",
+      "price_with_vat": 21.84,
+      "old_price_with_vat": 21.84,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871332310",
+      "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Sand 35, 30ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 13
+    },
+    {
+      "gtin": "3337875774017",
+      "name": "Krem për fytyrë Vichy Neovadiol Post-Menopause, Night, 50ml",
+      "price_with_vat": 49.25,
+      "old_price_with_vat": 49.25,
+      "stock_quantity": 15
+    },
+    {
+      "gtin": "3337872412684",
+      "name": "Krem La Roche-Posay Lipikar Xerand, 50ml",
+      "price_with_vat": 8.08,
+      "old_price_with_vat": 8.08,
+      "stock_quantity": 16
+    },
+    {
+      "gtin": "3433422404533",
+      "name": "Pastrues La Roche-Posay Lipikar Surgras, 150g",
+      "price_with_vat": 11.3,
+      "old_price_with_vat": 11.3,
+      "stock_quantity": 9
+    },
+    {
+      "gtin": "3337871321574",
+      "name": "Pudër e lëngshme Vichy Liftactiv Flexiteint, 35, 30 ml",
+      "price_with_vat": 35.8,
+      "old_price_with_vat": 35.8,
+      "stock_quantity": 29
+    },
+    {
+      "gtin": "30106659",
+      "name": "Balsam për buzë La Roche-Posay Cicaplast Levres Barrier Repairing, 7.5ml",
+      "price_with_vat": 8.29,
+      "old_price_with_vat": 8.29,
+      "stock_quantity": 14
+    },
+    {
+      "gtin": "3337871310714",
+      "name": "Krem Vichy Ideal Soleil Tanning Milk",
+      "price_with_vat": 24.35,
+      "old_price_with_vat": 24.35,
+      "stock_quantity": 55
+    },
+    {
+      "gtin": "3337875787222",
+      "name": "Shampo për flokë Vichy Dercos Psolution kDKR8893",
+      "price_with_vat": 21.94,
+      "old_price_with_vat": 21.94,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871310592",
+      "name": "Deodorant Vichy Anti-Perspirant Spray 48 Hour, 125ml",
+      "price_with_vat": 16.79,
+      "old_price_with_vat": 16.79,
+      "stock_quantity": 14
+    },
+    {
+      "gtin": "3337875810869",
+      "name": "Sprej Vichy Capital Soleil Spray Fluid SPF 50+, 200ml",
+      "price_with_vat": 31.08,
+      "old_price_with_vat": 31.08,
+      "stock_quantity": 40
+    },
+    {
+      "gtin": "3337875763790",
+      "name": "Balsam La Roche-Posay Lipikar AP+M Triple Action Balm Eco, 200ml",
+      "price_with_vat": 27.33,
+      "old_price_with_vat": 27.33,
+      "stock_quantity": 25
+    },
+    {
+      "gtin": "3337875696838",
+      "name": "Sprej La Roche-Posay Anthelios Invisible Spray SPF50+, 200ml",
+      "price_with_vat": 30.28,
+      "old_price_with_vat": 30.28,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875549615",
+      "name": "Losion për fytyrë La Roche-Posay Lipikar Lait/Lotion, 400ml",
+      "price_with_vat": 25.18,
+      "old_price_with_vat": 25.18,
+      "stock_quantity": 16
+    },
+    {
+      "gtin": "3337875852302",
+      "name": "Losion për lëkurë të thatë La Roche Posay",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809186283854",
+      "name": "Serum Jumiso All Day Vitamin Brightening & Balancing Facial, 30ml",
+      "price_with_vat": 22.5,
+      "old_price_with_vat": 22.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871310455",
+      "name": "Deodorant Vichy Anti-Perspirant Treatment 7 Days, 30ml",
+      "price_with_vat": 16.79,
+      "old_price_with_vat": 16.79,
+      "stock_quantity": 30
+    },
+    {
+      "gtin": "3337871332303",
+      "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Nude 25, 30ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 39
+    },
+    {
+      "gtin": "3337875585187",
+      "name": "Sprej Vichy Ideal Soleil Hydrating Water, 200ml",
+      "price_with_vat": 28.51,
+      "old_price_with_vat": 28.51,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337871320980",
+      "name": "Pastrues për fytyrë Vichy Pureté Thermale Cleansing Foam, 150ml",
+      "price_with_vat": 24.34,
+      "old_price_with_vat": 24.34,
+      "stock_quantity": 25
+    },
+    {
+      "gtin": "3337875695152",
+      "name": "Sprej Vichy Capital Soleil Solar Protective Water Enhanced Tan SPF 50+, 200ml",
+      "price_with_vat": 28.51,
+      "old_price_with_vat": 28.51,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337871320324",
+      "name": "Deodorant Vichy Roll-on për lëkurë të ndjeshme ose pas depilimit, 50ml",
+      "price_with_vat": 16.79,
+      "old_price_with_vat": 16.79,
+      "stock_quantity": 19
+    },
+    {
+      "gtin": "3337875588225",
+      "name": "Krem për fytyrë Vichy Aqualia Thermal Cream Rich, 50ml",
+      "price_with_vat": 35.33,
+      "old_price_with_vat": 35.33,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871332327",
+      "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Gold 45, 30ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 12
+    },
+    {
+      "gtin": "3337875660617",
+      "name": "Krem për fytyrë Vichy Normaderm Phytosolution, 50ml",
+      "price_with_vat": 29.13,
+      "old_price_with_vat": 29.13,
+      "stock_quantity": 17
+    },
+    {
+      "gtin": "3337875804431",
+      "name": "Deodorant Vichy Clinical Control Deodorant 96h Women, 50ml",
+      "price_with_vat": 16.79,
+      "old_price_with_vat": 16.79,
+      "stock_quantity": 22
+    },
+    {
+      "gtin": "3337875816847",
+      "name": "Krem La Roche-Posay Cicaplast Baume B5+, 100ml",
+      "price_with_vat": 22.99,
+      "old_price_with_vat": 22.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875816809",
+      "name": "Krem për fytyrë La Roche-Posay Cicaplast Baume B5+, 40 ml",
+      "price_with_vat": 15.59,
+      "old_price_with_vat": 15.59,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875548533",
+      "name": "Xhel La Roche-Posay Anthelios XL Wet Skin Gel, 250ml",
+      "price_with_vat": 29.6,
+      "old_price_with_vat": 29.6,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871321567",
+      "name": "Pudër e lëngshme Vichy Liftactiv Flexiteint, 25, 30ml",
+      "price_with_vat": 35.8,
+      "old_price_with_vat": 35.8,
+      "stock_quantity": 57
+    },
+    {
+      "gtin": "3337875574358",
+      "name": "Shampon Vichy Dercos Densi-Solutions Thickening Shampoo, 200ml",
+      "price_with_vat": 22.52,
+      "old_price_with_vat": 22.52,
+      "stock_quantity": 38
+    },
+    {
+      "gtin": "3337875663083",
+      "name": "Xhel pastrues për fytyrë Vichy Normaderm Phytosolution, 400ml",
+      "price_with_vat": 29.79,
+      "old_price_with_vat": 29.79,
+      "stock_quantity": 17
+    },
+    {
+      "gtin": "3433422406599",
+      "name": "Pastrues për fytyrë La Roche-Posay Toleriane Dermo Milky Cleanser, 200ml",
+      "price_with_vat": 22.52,
+      "old_price_with_vat": 22.52,
+      "stock_quantity": 33
+    },
+    {
+      "gtin": "3337875731409",
+      "name": "Krem për fytyrë La Roche-Posay Hydraphaze HA Riche, 50ml",
+      "price_with_vat": 34.3,
+      "old_price_with_vat": 34.3,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875583626",
+      "name": "Serum për fytyrë La Roche Posay Hyalu B5, 30 ml",
+      "price_with_vat": 49.81,
+      "old_price_with_vat": 49.81,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875518598",
+      "name": "Krem për fytyrë La Roche-Posay Effaclar Duo (+) Unifiant, Medium, 40ml",
+      "price_with_vat": 25.89,
+      "old_price_with_vat": 25.89,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875774123",
+      "name": "Krem për fytyrë Vichy Neovadiol Peri-Menopause, Day, Normal Skin, 50ml",
+      "price_with_vat": 47.2,
+      "old_price_with_vat": 47.2,
+      "stock_quantity": 6
+    },
+    {
+      "gtin": "3337875762908",
+      "name": "Serum për fytyrë Vichy Mineral 89 Probiotic Fractions, 30ml",
+      "price_with_vat": 40.09,
+      "old_price_with_vat": 40.09,
+      "stock_quantity": 15
+    },
+    {
+      "gtin": "3337875596763",
+      "name": "Serum për fytyrë Vichy Mineral 89 Eyes Fortifier, 15ml",
+      "price_with_vat": 24.91,
+      "old_price_with_vat": 24.91,
+      "stock_quantity": 35
+    },
+    {
+      "gtin": "3337871328795",
+      "name": "Krem për fytyrë Vichy Liftactiv Supreme, 50ml",
+      "price_with_vat": 44.52,
+      "old_price_with_vat": 44.52,
+      "stock_quantity": 19
+    },
+    {
+      "gtin": "3337871323332",
+      "name": "Krem për fytyrë Vichy LiftActiv Supreme Eye Cream, 15ml",
+      "price_with_vat": 37.76,
+      "old_price_with_vat": 37.76,
+      "stock_quantity": 25
+    },
+    {
+      "gtin": "3337875719209",
+      "name": "Serum për fytyrë Vichy Liftactiv Supreme HA Filler, 30ml",
+      "price_with_vat": 52.41,
+      "old_price_with_vat": 52.41,
+      "stock_quantity": 34
+    },
+    {
+      "gtin": "3337875731638",
+      "name": "Krem për fytyrë La Roche-Posay Hydraphaze Ha Light, 50ml",
+      "price_with_vat": 35.41,
+      "old_price_with_vat": 35.41,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871321543",
+      "name": "Pudër e lëngshme Vichy Liftactiv Flexiteint, 30ml",
+      "price_with_vat": 35.8,
+      "old_price_with_vat": 35.8,
+      "stock_quantity": 8
+    },
+    {
+      "gtin": "3337871323394",
+      "name": "Shampon Vichy Dercos Anti-Dandruff Sensitive Shampoo, 200ml",
+      "price_with_vat": 22.52,
+      "old_price_with_vat": 22.52,
+      "stock_quantity": 65
+    },
+    {
+      "gtin": "3337875588829",
+      "name": "Krem për fytyrë Vichy Aqualia Thermal Light, 50ml",
+      "price_with_vat": 35.33,
+      "old_price_with_vat": 35.33,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875585217",
+      "name": "Sprej Vichy Ideal Soleil Enhanced Tan, 200ml",
+      "price_with_vat": 28.51,
+      "old_price_with_vat": 28.51,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875570404",
+      "name": "Pastures La Roche-Posay Toleriane Caring Wash, 200ml",
+      "price_with_vat": 19.43,
+      "old_price_with_vat": 19.43,
+      "stock_quantity": 44
+    },
+    {
+      "gtin": "3337872411793",
+      "name": "Krem për lëkurë La Roche Posay KERIUM DS, 40 ml",
+      "price_with_vat": 19.77,
+      "old_price_with_vat": 19.77,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "769915196474",
+      "name": "Serum The Ordinary Niacinamide 10% + Zinc 1%, 30ml",
+      "price_with_vat": 13.99,
+      "old_price_with_vat": 13.99,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809416470054",
+      "name": "Tonik për fytyrë Cosrx BHA Blackhead Power Liquid, 100ml",
+      "price_with_vat": 22.0,
+      "old_price_with_vat": 22.0,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809416471112",
+      "name": "Pastrues për fytyrë Cosrx Salicylic Acid Daily Gentle Cleanser, 150ml",
+      "price_with_vat": 14.0,
+      "old_price_with_vat": 14.0,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809416470009",
+      "name": "Esencë për fytyrë Cosrx Advanced Snail 96 Mucin Power, 100 ml",
+      "price_with_vat": 21.0,
+      "old_price_with_vat": 21.0,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875518451",
+      "name": "Krem La Roche-Posay Effaclar Duo + Unifiant Light, 40ml",
+      "price_with_vat": 25.89,
+      "old_price_with_vat": 25.89,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875796583",
+      "name": "Serum Vichy Liftactiv C, 20ml",
+      "price_with_vat": 53.08,
+      "old_price_with_vat": 53.08,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875549530",
+      "name": "Sprej mbrojtës La Roche-Posay Anthelios Anti Shine - Mist SPF50, 75ml",
+      "price_with_vat": 22.2,
+      "old_price_with_vat": 22.2,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875419802",
+      "name": "Krem Vichy Capital Soleil Anti-Dark Spot 3in1 SPF 50+, 50ml",
+      "price_with_vat": 29.6,
+      "old_price_with_vat": 29.6,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337871323622",
+      "name": "Krem Vichy Capital Soleil Mattifying Face Dry Touch\tSPF 50+, 50ml",
+      "price_with_vat": 25.19,
+      "old_price_with_vat": 25.19,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875797764",
+      "name": "Krem La Roche-Posay Anthelios Pigment Correct Color Light, SPF 50+, 50ml",
+      "price_with_vat": 35.72,
+      "old_price_with_vat": 35.72,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875761031",
+      "name": "Krem La Roche-Posay Anthelios Age Correct Daily Care, SPF50, 50ml",
+      "price_with_vat": 35.72,
+      "old_price_with_vat": 35.72,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875797399",
+      "name": "Krem La Roche-Posay Anthelios Pigment Correct Color Medium, SPF 50+, 50ml",
+      "price_with_vat": 36.3,
+      "old_price_with_vat": 36.3,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875810890",
+      "name": "Sprej Vichy Capital Soleil Fluid SPF 30+, 200ml",
+      "price_with_vat": 31.08,
+      "old_price_with_vat": 31.08,
+      "stock_quantity": 7
+    },
+    {
+      "gtin": "3337875795265",
+      "name": "Krem Vichy Capital Soleil UV Age Daily SPF 50+ Tinted, 40ml",
+      "price_with_vat": 30.27,
+      "old_price_with_vat": 30.27,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337872413025",
+      "name": "Krem hidratues La Roche-Posay Effaclar Mat , 40ml",
+      "price_with_vat": 26.55,
+      "old_price_with_vat": 26.55,
+      "stock_quantity": 86
+    },
+    {
+      "gtin": "3337875762298",
+      "name": "Krem mbrojtës ndaj diellit Vichy Capital Soleil UV-Age Daily SPF 50, 40 ml",
+      "price_with_vat": 30.27,
+      "old_price_with_vat": 30.27,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875719124",
+      "name": "Krem Vichy Liftactiv Supreme Vitamin C Serum, 20ml",
+      "price_with_vat": 44.52,
+      "old_price_with_vat": 44.52,
+      "stock_quantity": 31
+    },
+    {
+      "gtin": "3337875550628",
+      "name": "Losion La Roche-Posay Anthelios Children SPF, 250 ml",
+      "price_with_vat": 29.46,
+      "old_price_with_vat": 29.46,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875586269",
+      "name": "Xhel La Roche-Posay Cicaplast B5, 40 ml",
+      "price_with_vat": 17.08,
+      "old_price_with_vat": 17.08,
+      "stock_quantity": 67
+    },
+    {
+      "gtin": "3337875545778",
+      "name": "Pastrues La Roche Posay Toleriane Caring Wash, 400ml",
+      "price_with_vat": 24.01,
+      "old_price_with_vat": 24.01,
+      "stock_quantity": 39
+    },
+    {
+      "gtin": "3337872413711",
+      "name": "Krem anti-rrudhë La Roche Posay, 40ml",
+      "price_with_vat": 48.38,
+      "old_price_with_vat": 48.38,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337872413704",
+      "name": "Krem anti-rrudhë La Roche Posay, 40ml",
+      "price_with_vat": 51.02,
+      "old_price_with_vat": 51.02,
+      "stock_quantity": 31
+    },
+    {
+      "gtin": "3337875597319",
+      "name": "Krem për duar CeraVe, 50ml",
+      "price_with_vat": 6.67,
+      "old_price_with_vat": 6.67,
+      "stock_quantity": 80
+    },
+    {
+      "gtin": "3337875777797",
+      "name": "Krem hidratues La Roche Posay Effaclar H Iso-Biome, 40ml",
+      "price_with_vat": 28.72,
+      "old_price_with_vat": 28.72,
+      "stock_quantity": 38
+    },
+    {
+      "gtin": "3337875607254",
+      "name": "Krem Vichy Liftactiv Collagen, 50 ml",
+      "price_with_vat": 55.18,
+      "old_price_with_vat": 55.18,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875543248",
+      "name": "Serum Vichy Mineral 89, 50ml",
+      "price_with_vat": 29.23,
+      "old_price_with_vat": 29.23,
+      "stock_quantity": 80
+    },
+    {
+      "gtin": "3337872411083",
+      "name": "Xhel Pastrues La Roche Posay Effaclar Foaming Gel, 200ml",
+      "price_with_vat": 17.1,
+      "old_price_with_vat": 17.1,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337872411991",
+      "name": "Xhel Pastrues La Roche-Posay Effaclar Foaming Gel, 400ml",
+      "price_with_vat": 26.05,
+      "old_price_with_vat": 26.05,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875708289",
+      "name": "Xhel pastrues La Roche-Posay Effaclar Micro-Peeling Purifying, 400 ml",
+      "price_with_vat": 30.87,
+      "old_price_with_vat": 30.87,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875708265",
+      "name": "Xhel Pastrues La Roche-Posay, Effaclar Micro-Peeling Gel, 200ml",
+      "price_with_vat": 21.71,
+      "old_price_with_vat": 21.71,
+      "stock_quantity": 65
+    },
+    {
+      "gtin": "3337875597203",
+      "name": "Ujë Micelar CeraVe, 236ml",
+      "price_with_vat": 17.9,
+      "old_price_with_vat": 17.9,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875696548",
+      "name": "Krem La Roche-Posay Lipikar Baume Ap+, 400 ml",
+      "price_with_vat": 32.75,
+      "old_price_with_vat": 32.75,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875588348",
+      "name": "Krem hidratues La Roche Posay Toleriane Sensitive Riche, 40ml",
+      "price_with_vat": 25.9,
+      "old_price_with_vat": 25.9,
+      "stock_quantity": 22
+    },
+    {
+      "gtin": "3337872414039",
+      "name": "Krem për sy La Roche Posay, 15ml",
+      "price_with_vat": 44.78,
+      "old_price_with_vat": 44.78,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337872414145",
+      "name": "Krem për duar La Roche Posay, 50ml",
+      "price_with_vat": 12.2,
+      "old_price_with_vat": 12.2,
+      "stock_quantity": 88
+    },
+    {
+      "gtin": "3337875583589",
+      "name": "Krem anti-rrudhë La Roche Posay, 40ml",
+      "price_with_vat": 37.44,
+      "old_price_with_vat": 37.44,
+      "stock_quantity": 47
+    },
+    {
+      "gtin": "3337875537308",
+      "name": "Krem pastrues La Roche-Posay Lipikar Syndet Ap+, për lëkurë të thatë, 200 ml",
+      "price_with_vat": 17.51,
+      "old_price_with_vat": 17.51,
+      "stock_quantity": 20
+    },
+    {
+      "gtin": "3337875685818",
+      "name": "Krem hidratues La Roche Posay Lipikar Lait Urea 5+, 400ml",
+      "price_with_vat": 28.0,
+      "old_price_with_vat": 28.0,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3433422408159",
+      "name": "Losion La Roche Posay, 200ml",
+      "price_with_vat": 22.7,
+      "old_price_with_vat": 22.7,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875537315",
+      "name": "Pastrues La Roche-Posay Lipikar Syndet Ap+, 400 ml",
+      "price_with_vat": 26.83,
+      "old_price_with_vat": 26.83,
+      "stock_quantity": 31
+    },
+    {
+      "gtin": "3337872413735",
+      "name": "Krem për sy La Roche Posay, 15ml",
+      "price_with_vat": 43.28,
+      "old_price_with_vat": 43.28,
+      "stock_quantity": 23
+    },
+    {
+      "gtin": "3337875660549",
+      "name": "Krem Anti-rrudhë La Roche Posay, 30ml",
+      "price_with_vat": 53.02,
+      "old_price_with_vat": 53.02,
+      "stock_quantity": 31
+    },
+    {
+      "gtin": "3337875632652",
+      "name": "Maskarë La Roche Posay, 8g",
+      "price_with_vat": 28.38,
+      "old_price_with_vat": 28.38,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875578486",
+      "name": "Krem hidratues La Roche Posay Toleriane Sensitive, 40ml",
+      "price_with_vat": 25.9,
+      "old_price_with_vat": 25.9,
+      "stock_quantity": 21
+    },
+    {
+      "gtin": "3337875588676",
+      "name": "Krem hidratues La Roche Posay Toleriane Sensitive Fluide, 40ml",
+      "price_with_vat": 25.1,
+      "old_price_with_vat": 25.1,
+      "stock_quantity": 25
+    },
+    {
+      "gtin": "3337875598071",
+      "name": "Krem La Roche-Posay Effaclar Duo (+), 40 ml",
+      "price_with_vat": 24.1,
+      "old_price_with_vat": 24.1,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875684101",
+      "name": "Krem për lëkurë të thatë CeraVe, 340 g",
+      "price_with_vat": 22.24,
+      "old_price_with_vat": 22.24,
+      "stock_quantity": 53
+    },
+    {
+      "gtin": "3337875660570",
+      "name": "Serum La Roche-Posay Pure Vitamin C10, 30ml",
+      "price_with_vat": 49.93,
+      "old_price_with_vat": 49.93,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875597227",
+      "name": "Krem hidratues për lëkurë të thatë CeraVe, 340 g",
+      "price_with_vat": 17.9,
+      "old_price_with_vat": 17.9,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875684095",
+      "name": "Krem Hidratues CeraVe SA Smoothing Cream, 177ml",
+      "price_with_vat": 18.5,
+      "old_price_with_vat": 18.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875761123",
+      "name": "Losion për mbrojtje ndaj diellit La Roche Posay, SPF50+, 250ml",
+      "price_with_vat": 28.99,
+      "old_price_with_vat": 28.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875761116",
+      "name": "Krem për mbrojtje ndaj diellit La Roche Posay, SPF30, 250ml",
+      "price_with_vat": 28.67,
+      "old_price_with_vat": 28.67,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875597357",
+      "name": "Pastrues për lëkurë të yndyrshme CeraVe, 473 ml",
+      "price_with_vat": 18.57,
+      "old_price_with_vat": 18.57,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875597180",
+      "name": "Emulsion pastrimi për lëkurë CeraVe 236 ml",
+      "price_with_vat": 10.18,
+      "old_price_with_vat": 10.18,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875597272",
+      "name": "Krem për Sy CeraVe, 14ml",
+      "price_with_vat": 19.4,
+      "old_price_with_vat": 19.4,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875684118",
+      "name": "Xhel Pastrues CeraVe Sa Smoothing Gel, 236ml",
+      "price_with_vat": 14.25,
+      "old_price_with_vat": 14.25,
+      "stock_quantity": 70
+    },
+    {
+      "gtin": "3337875597487",
+      "name": "Krem Hidratues CeraVe SPF25, 52ml",
+      "price_with_vat": 19.5,
+      "old_price_with_vat": 19.5,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875598996",
+      "name": "Krem Hidratues CeraVe, 177ml",
+      "price_with_vat": 11.87,
+      "old_price_with_vat": 11.87,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337872412516",
+      "name": "Ujë micellar La Roche Posay, 400ml",
+      "price_with_vat": 23.29,
+      "old_price_with_vat": 23.29,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875694469",
+      "name": "Serum La Roche-Posay Retinol B3, 30ml",
+      "price_with_vat": 52.92,
+      "old_price_with_vat": 52.92,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875722827",
+      "name": "Serum për lëkurë të yndyrshme La Roche-Posay Effaclar Ultra Concentrated, 30 ml",
+      "price_with_vat": 43.9,
+      "old_price_with_vat": 43.9,
+      "stock_quantity": 79
+    },
+    {
+      "gtin": "3337871316600",
+      "name": "Krem pudër Vichy Dermablend Nude 25, 30ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 60
+    },
+    {
+      "gtin": "3337871328801",
+      "name": "Krem Vichy Liftactiv Supreme, 50ml",
+      "price_with_vat": 44.52,
+      "old_price_with_vat": 44.52,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337871322502",
+      "name": "Krem Vichy Liftactiv Night Supreme, 50 ml",
+      "price_with_vat": 46.43,
+      "old_price_with_vat": 46.43,
+      "stock_quantity": 27
+    },
+    {
+      "gtin": "3337871324001",
+      "name": "Deodorant Vichy Stress Resist Roll-On 72 Hours, 50 ml",
+      "price_with_vat": 16.79,
+      "old_price_with_vat": 16.79,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337871308612",
+      "name": "Ujë termal Vichy Mineralizing, 150 ml",
+      "price_with_vat": 12.88,
+      "old_price_with_vat": 12.88,
+      "stock_quantity": 48
+    },
+    {
+      "gtin": "3337871316624",
+      "name": "Krem pudër Vichy Dermablend, Gold 45, 30ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 27
+    },
+    {
+      "gtin": "3337871316617",
+      "name": "Krem pudër Vichy Dermablend, Sand 35, 30 ml",
+      "price_with_vat": 33.5,
+      "old_price_with_vat": 33.5,
+      "stock_quantity": 17
+    },
+    {
+      "gtin": "3337872412998",
+      "name": "Krem La Roche-Posay Cicaplast Baume B5, 40 ml",
+      "price_with_vat": 11.77,
+      "old_price_with_vat": 11.77,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337872413018",
+      "name": "Krem La Roche-Posay Cicaplast Baume B5, 100 ml",
+      "price_with_vat": 17.63,
+      "old_price_with_vat": 17.63,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3337875549493",
+      "name": "Krem La Roche-Posay Effaclar Duo (+), për lëkurë me akne, SPF 30, 40 ml",
+      "price_with_vat": 29.47,
+      "old_price_with_vat": 29.47,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875517300",
+      "name": "Krem La Roche-Posay Cicaplast Baume B5, SPF 50, 40 ml",
+      "price_with_vat": 17.04,
+      "old_price_with_vat": 17.04,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "3433422404403",
+      "name": "Toner për fytyrë La Roche-Posay Thermal Spring Water, 300ml",
+      "price_with_vat": 16.96,
+      "old_price_with_vat": 16.96,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809416471396",
+      "name": "Lecka pastruese për fytyrë CosRx Clear Fit Master, 18 copë",
+      "price_with_vat": 5.99,
+      "old_price_with_vat": 5.99,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809416470122",
+      "name": "Krem hidratues Cosrx Hyaluronic Acid Intensive Cream, 100gr",
+      "price_with_vat": 23.0,
+      "old_price_with_vat": 23.0,
+      "stock_quantity": 0
+    },
+    {
+      "gtin": "8809598451766",
+      "name": "Xhel Cosrx Low Ph Good Morning Gel Cleanser, 50ml",
+      "price_with_vat": 7.99,
+      "old_price_with_vat": 7.99,
+      "stock_quantity": 0
+    }
+  ]
+}
