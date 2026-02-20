@@ -1,10 +1,24 @@
 {
   "version": 1,
-  "generated_at": "2026-02-21 00:18:01",
+  "generated_at": "2026-02-21 00:25:07",
   "supplier_file": "20.02.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
-  "items_count": 193,
+  "items_count": 195,
   "items": [
+    {
+      "gtin": "3337875773447",
+      "name": "Pastrues CeraVe Hydrating Foaming Oil, 473 ml",
+      "price_with_vat": 22.99,
+      "old_price_with_vat": 22.99,
+      "stock_quantity": 100
+    },
+    {
+      "gtin": "3337875849302",
+      "name": "Pomadë rikthyese Cerave Advanced Repair Ointment, 50ml, për lëkurë shumë të thatë",
+      "price_with_vat": 13.99,
+      "old_price_with_vat": 13.99,
+      "stock_quantity": 100
+    },
     {
       "gtin": "3337871322243",
       "name": "Shampon Vichy Energy, 400ml",
@@ -1191,15 +1205,15 @@
     {
       "gtin": "3337875597357",
       "name": "Pastrues për lëkurë të yndyrshme CeraVe, 473 ml",
-      "price_with_vat": 18.57,
-      "old_price_with_vat": 18.57,
+      "price_with_vat": 18.99,
+      "old_price_with_vat": 19.49,
       "stock_quantity": 100
     },
     {
       "gtin": "3337875597180",
       "name": "Emulsion pastrimi për lëkurë CeraVe 236 ml",
-      "price_with_vat": 10.18,
-      "old_price_with_vat": 10.18,
+      "price_with_vat": 10.99,
+      "old_price_with_vat": 10.99,
       "stock_quantity": 100
     },
     {
