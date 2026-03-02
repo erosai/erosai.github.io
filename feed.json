@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-02-27 12:01:54",
-  "supplier_file": "27.02.26.xlsx",
+  "generated_at": "2026-03-02 12:00:38",
+  "supplier_file": "02.03.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -199,7 +199,7 @@
       "name": "Krem kundër akneve Vichy Normaderm SOS, 20 ml",
       "price_with_vat": 22.63,
       "old_price_with_vat": 22.63,
-      "stock_quantity": 14
+      "stock_quantity": 13
     },
     {
       "gtin": "3337875613668",
@@ -458,7 +458,7 @@
       "name": "Losion hidratues CeraVe Intensive Moisturising Lotion, 236ml",
       "price_with_vat": 16.99,
       "old_price_with_vat": 16.99,
-      "stock_quantity": 57
+      "stock_quantity": 56
     },
     {
       "gtin": "3337875904513",
@@ -710,7 +710,7 @@
       "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Nude 25, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 36
+      "stock_quantity": 37
     },
     {
       "gtin": "3337875585187",
@@ -815,7 +815,7 @@
       "name": "Pastrues për fytyrë La Roche-Posay Toleriane Dermo Milky Cleanser, 200ml",
       "price_with_vat": 22.52,
       "old_price_with_vat": 22.52,
-      "stock_quantity": 23
+      "stock_quantity": 22
     },
     {
       "gtin": "3337875731409",
@@ -1046,7 +1046,7 @@
       "name": "Krem Vichy Liftactiv Supreme Vitamin C Serum, 20ml",
       "price_with_vat": 44.52,
       "old_price_with_vat": 44.52,
-      "stock_quantity": 25
+      "stock_quantity": 23
     },
     {
       "gtin": "3337875550628",
@@ -1137,7 +1137,7 @@
       "name": "Xhel Pastrues La Roche-Posay, Effaclar Micro-Peeling Gel, 200ml",
       "price_with_vat": 21.71,
       "old_price_with_vat": 21.71,
-      "stock_quantity": 44
+      "stock_quantity": 43
     },
     {
       "gtin": "3337875597203",
@@ -1172,7 +1172,7 @@
       "name": "Krem për duar La Roche Posay, 50ml",
       "price_with_vat": 12.2,
       "old_price_with_vat": 12.2,
-      "stock_quantity": 83
+      "stock_quantity": 80
     },
     {
       "gtin": "3337875583589",
