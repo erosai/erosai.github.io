@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-03-13 10:00:05",
-  "supplier_file": "13.03.26.xlsx",
+  "generated_at": "2026-03-16 09:00:03",
+  "supplier_file": "16.03.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -136,7 +136,7 @@
       "name": "Krem për fytyrë La Roche Posay Rosaliac Anti-Redness Correcting Moisturizer, 40 ml",
       "price_with_vat": 33.1,
       "old_price_with_vat": 33.1,
-      "stock_quantity": 7
+      "stock_quantity": 5
     },
     {
       "gtin": "3337875863964",
@@ -171,7 +171,7 @@
       "name": "Krem La Roche-Posay Toleriane Rosaliac AR SPF30, 50ml",
       "price_with_vat": 31.9,
       "old_price_with_vat": 31.9,
-      "stock_quantity": 7
+      "stock_quantity": 5
     },
     {
       "gtin": "3337871330125",
@@ -185,7 +185,7 @@
       "name": "Krem për fytyrë La Roche-Posay Effaclar H Iso-Biome Lavante Cream, 200ml",
       "price_with_vat": 22.99,
       "old_price_with_vat": 22.99,
-      "stock_quantity": 58
+      "stock_quantity": 57
     },
     {
       "gtin": "3337875572606",
@@ -353,7 +353,7 @@
       "name": "Losion La Roche Posay Lipikar Baume Ap+M, 400ml",
       "price_with_vat": 33.82,
       "old_price_with_vat": 33.82,
-      "stock_quantity": 73
+      "stock_quantity": 68
     },
     {
       "gtin": "3337875586283",
@@ -647,7 +647,7 @@
       "name": "Shampo për flokë Vichy Dercos Psolution kDKR8893",
       "price_with_vat": 21.94,
       "old_price_with_vat": 21.94,
-      "stock_quantity": 39
+      "stock_quantity": 38
     },
     {
       "gtin": "3337871310592",
@@ -668,7 +668,7 @@
       "name": "Balsam La Roche-Posay Lipikar AP+M Triple Action Balm Eco, 200ml",
       "price_with_vat": 27.33,
       "old_price_with_vat": 27.33,
-      "stock_quantity": 7
+      "stock_quantity": 6
     },
     {
       "gtin": "3337875696838",
@@ -759,7 +759,7 @@
       "name": "Krem për fytyrë Vichy Normaderm Phytosolution, 50ml",
       "price_with_vat": 29.13,
       "old_price_with_vat": 29.13,
-      "stock_quantity": 31
+      "stock_quantity": 30
     },
     {
       "gtin": "3337875804431",
@@ -899,7 +899,7 @@
       "name": "Shampon Vichy Dercos Anti-Dandruff Sensitive Shampoo, 200ml",
       "price_with_vat": 22.52,
       "old_price_with_vat": 22.52,
-      "stock_quantity": 49
+      "stock_quantity": 48
     },
     {
       "gtin": "3337875588829",
@@ -1067,7 +1067,7 @@
       "name": "Pastrues La Roche Posay Toleriane Caring Wash, 400ml",
       "price_with_vat": 24.01,
       "old_price_with_vat": 24.01,
-      "stock_quantity": 56
+      "stock_quantity": 52
     },
     {
       "gtin": "3337872413711",
@@ -1095,7 +1095,7 @@
       "name": "Krem hidratues La Roche Posay Effaclar H Iso-Biome, 40ml",
       "price_with_vat": 28.72,
       "old_price_with_vat": 28.72,
-      "stock_quantity": 96
+      "stock_quantity": 93
     },
     {
       "gtin": "3337875607254",
@@ -1179,7 +1179,7 @@
       "name": "Krem anti-rrudhë La Roche Posay, 40ml",
       "price_with_vat": 37.44,
       "old_price_with_vat": 37.44,
-      "stock_quantity": 43
+      "stock_quantity": 42
     },
     {
       "gtin": "3337875537308",
@@ -1207,7 +1207,7 @@
       "name": "Pastrues La Roche-Posay Lipikar Syndet Ap+, 400 ml",
       "price_with_vat": 26.83,
       "old_price_with_vat": 26.83,
-      "stock_quantity": 69
+      "stock_quantity": 68
     },
     {
       "gtin": "3337872413735",
@@ -1221,7 +1221,7 @@
       "name": "Krem Anti-rrudhë La Roche Posay, 30ml",
       "price_with_vat": 53.02,
       "old_price_with_vat": 53.02,
-      "stock_quantity": 19
+      "stock_quantity": 18
     },
     {
       "gtin": "3337875632652",
@@ -1235,14 +1235,14 @@
       "name": "Krem hidratues La Roche Posay Toleriane Sensitive, 40ml",
       "price_with_vat": 25.9,
       "old_price_with_vat": 25.9,
-      "stock_quantity": 94
+      "stock_quantity": 90
     },
     {
       "gtin": "3337875588676",
       "name": "Krem hidratues La Roche Posay Toleriane Sensitive Fluide, 40ml",
       "price_with_vat": 25.1,
       "old_price_with_vat": 25.1,
-      "stock_quantity": 34
+      "stock_quantity": 33
     },
     {
       "gtin": "3337875598071",
@@ -1368,7 +1368,7 @@
       "name": "Krem Vichy Liftactiv Supreme, 50ml",
       "price_with_vat": 44.52,
       "old_price_with_vat": 44.52,
-      "stock_quantity": 5
+      "stock_quantity": 0
     },
     {
       "gtin": "3337871322502",
@@ -1403,7 +1403,7 @@
       "name": "Krem pudër Vichy Dermablend, Sand 35, 30 ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 49
+      "stock_quantity": 48
     },
     {
       "gtin": "3337872412998",
