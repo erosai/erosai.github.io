@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-05 10:00:05",
-  "supplier_file": "05.06.26.xlsx",
+  "generated_at": "2026-06-08 10:00:05",
+  "supplier_file": "08.06.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -17,7 +17,7 @@
       "name": "Shampo Vichy Dercos Energising, 200ml",
       "price_with_vat": 21.99,
       "old_price_with_vat": 21.99,
-      "stock_quantity": 83
+      "stock_quantity": 77
     },
     {
       "gtin": "3337875837149",
@@ -220,14 +220,14 @@
       "name": "Serum për fytyrë Vichy Liftactiv Retinol Specialist Serum, 30ml",
       "price_with_vat": 51.0,
       "old_price_with_vat": 51.0,
-      "stock_quantity": 54
+      "stock_quantity": 53
     },
     {
       "gtin": "3337875831888",
       "name": "Krem për fytyrë Vichy Minéral 89 72H Moisture, 50 ml",
       "price_with_vat": 32.86,
       "old_price_with_vat": 32.86,
-      "stock_quantity": 99
+      "stock_quantity": 96
     },
     {
       "gtin": "3337871311346",
@@ -458,7 +458,7 @@
       "name": "Losion hidratues CeraVe Intensive Moisturising Lotion, 236ml",
       "price_with_vat": 16.99,
       "old_price_with_vat": 16.99,
-      "stock_quantity": 96
+      "stock_quantity": 94
     },
     {
       "gtin": "3337875904513",
@@ -647,7 +647,7 @@
       "name": "Shampo për flokë Vichy Dercos Psolution kDKR8893",
       "price_with_vat": 21.94,
       "old_price_with_vat": 21.94,
-      "stock_quantity": 56
+      "stock_quantity": 52
     },
     {
       "gtin": "3337871310592",
@@ -752,14 +752,14 @@
       "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Gold 45, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 11
+      "stock_quantity": 10
     },
     {
       "gtin": "3337875660617",
       "name": "Krem për fytyrë Vichy Normaderm Phytosolution, 50ml",
       "price_with_vat": 29.13,
       "old_price_with_vat": 29.13,
-      "stock_quantity": 12
+      "stock_quantity": 11
     },
     {
       "gtin": "3337875804431",
@@ -857,7 +857,7 @@
       "name": "Serum për fytyrë Vichy Mineral 89 Eyes Fortifier, 15ml",
       "price_with_vat": 24.91,
       "old_price_with_vat": 24.91,
-      "stock_quantity": 44
+      "stock_quantity": 42
     },
     {
       "gtin": "3337871328795",
@@ -878,7 +878,7 @@
       "name": "Serum për fytyrë Vichy Liftactiv Supreme HA Filler, 30ml",
       "price_with_vat": 52.41,
       "old_price_with_vat": 52.41,
-      "stock_quantity": 27
+      "stock_quantity": 26
     },
     {
       "gtin": "3337875731638",
@@ -899,7 +899,7 @@
       "name": "Shampon Vichy Dercos Anti-Dandruff Sensitive Shampoo, 200ml",
       "price_with_vat": 22.52,
       "old_price_with_vat": 22.52,
-      "stock_quantity": 38
+      "stock_quantity": 34
     },
     {
       "gtin": "3337875588829",
@@ -1060,7 +1060,7 @@
       "name": "Xhel La Roche-Posay Cicaplast B5, 40 ml",
       "price_with_vat": 17.08,
       "old_price_with_vat": 17.08,
-      "stock_quantity": 57
+      "stock_quantity": 55
     },
     {
       "gtin": "3337875545778",
@@ -1158,7 +1158,7 @@
       "name": "Krem hidratues La Roche Posay Toleriane Sensitive Riche, 40ml",
       "price_with_vat": 25.9,
       "old_price_with_vat": 25.9,
-      "stock_quantity": 72
+      "stock_quantity": 69
     },
     {
       "gtin": "3337872414039",
@@ -1242,7 +1242,7 @@
       "name": "Krem hidratues La Roche Posay Toleriane Sensitive Fluide, 40ml",
       "price_with_vat": 25.1,
       "old_price_with_vat": 25.1,
-      "stock_quantity": 69
+      "stock_quantity": 67
     },
     {
       "gtin": "3337875598071",
@@ -1361,7 +1361,7 @@
       "name": "Krem pudër Vichy Dermablend Nude 25, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 56
+      "stock_quantity": 55
     },
     {
       "gtin": "3337871328801",
@@ -1389,7 +1389,7 @@
       "name": "Ujë termal Vichy Mineralizing, 150 ml",
       "price_with_vat": 12.88,
       "old_price_with_vat": 12.88,
-      "stock_quantity": 39
+      "stock_quantity": 36
     },
     {
       "gtin": "3337871316624",
@@ -1424,7 +1424,7 @@
       "name": "Krem La Roche-Posay Effaclar Duo (+), për lëkurë me akne, SPF 30, 40 ml",
       "price_with_vat": 29.47,
       "old_price_with_vat": 29.47,
-      "stock_quantity": 32
+      "stock_quantity": 24
     },
     {
       "gtin": "3337875517300",
