@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21 10:00:07",
-  "supplier_file": "21.07.26.xlsx",
+  "generated_at": "2026-07-22 10:00:09",
+  "supplier_file": "22.07.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -122,7 +122,7 @@
       "name": "Krem për fytyrë Vichy Liftactiv B3 Anti-Dark Spots Cream SPF50, 50ml",
       "price_with_vat": 54.92,
       "old_price_with_vat": 54.92,
-      "stock_quantity": 95
+      "stock_quantity": 94
     },
     {
       "gtin": "3337875810838",
@@ -171,7 +171,7 @@
       "name": "Krem La Roche-Posay Toleriane Rosaliac AR SPF30, 50ml",
       "price_with_vat": 31.9,
       "old_price_with_vat": 31.9,
-      "stock_quantity": 94
+      "stock_quantity": 93
     },
     {
       "gtin": "3337871330125",
@@ -388,7 +388,7 @@
       "name": "Sprej mbrojtës kundër diellit për fëmijë La Roche-Posay Anthelios UVMune 400 Dermo‑Pediatrics Invisible Spray SPF 50+, 200ml",
       "price_with_vat": 31.99,
       "old_price_with_vat": 31.99,
-      "stock_quantity": 38
+      "stock_quantity": 35
     },
     {
       "gtin": "3337875799348",
@@ -605,7 +605,7 @@
       "name": "Krem për fytyrë Vichy Neovadiol Post-Menopause, Night, 50ml",
       "price_with_vat": 49.25,
       "old_price_with_vat": 49.25,
-      "stock_quantity": 22
+      "stock_quantity": 21
     },
     {
       "gtin": "3337872412684",
@@ -626,7 +626,7 @@
       "name": "Pudër e lëngshme Vichy Liftactiv Flexiteint, 35, 30 ml",
       "price_with_vat": 35.8,
       "old_price_with_vat": 35.8,
-      "stock_quantity": 40
+      "stock_quantity": 39
     },
     {
       "gtin": "30106659",
@@ -794,7 +794,7 @@
       "name": "Pudër e lëngshme Vichy Liftactiv Flexiteint, 25, 30ml",
       "price_with_vat": 35.8,
       "old_price_with_vat": 35.8,
-      "stock_quantity": 86
+      "stock_quantity": 85
     },
     {
       "gtin": "3337875574358",
@@ -843,7 +843,7 @@
       "name": "Krem për fytyrë Vichy Neovadiol Peri-Menopause, Day, Normal Skin, 50ml",
       "price_with_vat": 47.2,
       "old_price_with_vat": 47.2,
-      "stock_quantity": 8
+      "stock_quantity": 7
     },
     {
       "gtin": "3337875762908",
@@ -892,7 +892,7 @@
       "name": "Pudër e lëngshme Vichy Liftactiv Flexiteint, 30ml",
       "price_with_vat": 35.8,
       "old_price_with_vat": 35.8,
-      "stock_quantity": 16
+      "stock_quantity": 15
     },
     {
       "gtin": "3337871323394",
@@ -969,7 +969,7 @@
       "name": "Serum Vichy Liftactiv C, 20ml",
       "price_with_vat": 53.08,
       "old_price_with_vat": 53.08,
-      "stock_quantity": 63
+      "stock_quantity": 62
     },
     {
       "gtin": "3337875549530",
@@ -1186,7 +1186,7 @@
       "name": "Krem pastrues La Roche-Posay Lipikar Syndet Ap+, për lëkurë të thatë, 200 ml",
       "price_with_vat": 17.51,
       "old_price_with_vat": 17.51,
-      "stock_quantity": 64
+      "stock_quantity": 62
     },
     {
       "gtin": "3337875685818",
@@ -1207,7 +1207,7 @@
       "name": "Pastrues La Roche-Posay Lipikar Syndet Ap+, 400 ml",
       "price_with_vat": 26.83,
       "old_price_with_vat": 26.83,
-      "stock_quantity": 97
+      "stock_quantity": 94
     },
     {
       "gtin": "3337872413735",
@@ -1256,7 +1256,7 @@
       "name": "Krem për lëkurë të thatë CeraVe, 340 g",
       "price_with_vat": 22.24,
       "old_price_with_vat": 22.24,
-      "stock_quantity": 70
+      "stock_quantity": 69
     },
     {
       "gtin": "3337875660570",
@@ -1270,7 +1270,7 @@
       "name": "Krem hidratues për lëkurë të thatë CeraVe, 340 g",
       "price_with_vat": 17.9,
       "old_price_with_vat": 17.9,
-      "stock_quantity": 71
+      "stock_quantity": 70
     },
     {
       "gtin": "3337875684095",
@@ -1361,7 +1361,7 @@
       "name": "Krem pudër Vichy Dermablend Nude 25, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 52
+      "stock_quantity": 53
     },
     {
       "gtin": "3337871328801",
@@ -1403,7 +1403,7 @@
       "name": "Krem pudër Vichy Dermablend, Sand 35, 30 ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 66
+      "stock_quantity": 65
     },
     {
       "gtin": "3337872412998",
