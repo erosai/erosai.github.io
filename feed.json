@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-22 10:00:09",
-  "supplier_file": "22.07.26.xlsx",
+  "generated_at": "2026-07-23 10:00:08",
+  "supplier_file": "23.07.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -157,7 +157,7 @@
       "name": "Krem për fytyrë Vichy Liftactiv Collagen Specialist, Night, 50ml",
       "price_with_vat": 57.22,
       "old_price_with_vat": 57.22,
-      "stock_quantity": 68
+      "stock_quantity": 67
     },
     {
       "gtin": "3337875803847",
@@ -388,7 +388,7 @@
       "name": "Sprej mbrojtës kundër diellit për fëmijë La Roche-Posay Anthelios UVMune 400 Dermo‑Pediatrics Invisible Spray SPF 50+, 200ml",
       "price_with_vat": 31.99,
       "old_price_with_vat": 31.99,
-      "stock_quantity": 35
+      "stock_quantity": 33
     },
     {
       "gtin": "3337875799348",
@@ -458,7 +458,7 @@
       "name": "Losion hidratues CeraVe Intensive Moisturising Lotion, 236ml",
       "price_with_vat": 16.99,
       "old_price_with_vat": 16.99,
-      "stock_quantity": 88
+      "stock_quantity": 86
     },
     {
       "gtin": "3337875904513",
@@ -479,7 +479,7 @@
       "name": "Pastrues për lëkurë të yndyrshme CeraVe, 1L",
       "price_with_vat": 25.99,
       "old_price_with_vat": 25.99,
-      "stock_quantity": 55
+      "stock_quantity": 52
     },
     {
       "gtin": "3337875904315",
@@ -710,7 +710,7 @@
       "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Nude 25, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 15
+      "stock_quantity": 14
     },
     {
       "gtin": "3337875585187",
@@ -815,7 +815,7 @@
       "name": "Pastrues për fytyrë La Roche-Posay Toleriane Dermo Milky Cleanser, 200ml",
       "price_with_vat": 22.52,
       "old_price_with_vat": 22.52,
-      "stock_quantity": 50
+      "stock_quantity": 47
     },
     {
       "gtin": "3337875731409",
@@ -864,7 +864,7 @@
       "name": "Krem për fytyrë Vichy Liftactiv Supreme, 50ml",
       "price_with_vat": 44.52,
       "old_price_with_vat": 44.52,
-      "stock_quantity": 46
+      "stock_quantity": 44
     },
     {
       "gtin": "3337871323332",
@@ -969,7 +969,7 @@
       "name": "Serum Vichy Liftactiv C, 20ml",
       "price_with_vat": 53.08,
       "old_price_with_vat": 53.08,
-      "stock_quantity": 62
+      "stock_quantity": 61
     },
     {
       "gtin": "3337875549530",
@@ -1186,7 +1186,7 @@
       "name": "Krem pastrues La Roche-Posay Lipikar Syndet Ap+, për lëkurë të thatë, 200 ml",
       "price_with_vat": 17.51,
       "old_price_with_vat": 17.51,
-      "stock_quantity": 62
+      "stock_quantity": 61
     },
     {
       "gtin": "3337875685818",
@@ -1207,7 +1207,7 @@
       "name": "Pastrues La Roche-Posay Lipikar Syndet Ap+, 400 ml",
       "price_with_vat": 26.83,
       "old_price_with_vat": 26.83,
-      "stock_quantity": 94
+      "stock_quantity": 91
     },
     {
       "gtin": "3337872413735",
@@ -1221,7 +1221,7 @@
       "name": "Krem Anti-rrudhë La Roche Posay, 30ml",
       "price_with_vat": 53.02,
       "old_price_with_vat": 53.02,
-      "stock_quantity": 41
+      "stock_quantity": 40
     },
     {
       "gtin": "3337875632652",
@@ -1319,7 +1319,7 @@
       "name": "Xhel Pastrues CeraVe Sa Smoothing Gel, 236ml",
       "price_with_vat": 14.25,
       "old_price_with_vat": 14.25,
-      "stock_quantity": 100
+      "stock_quantity": 98
     },
     {
       "gtin": "3337875597487",
@@ -1354,14 +1354,14 @@
       "name": "Serum për lëkurë të yndyrshme La Roche-Posay Effaclar Ultra Concentrated, 30 ml",
       "price_with_vat": 43.9,
       "old_price_with_vat": 43.9,
-      "stock_quantity": 72
+      "stock_quantity": 71
     },
     {
       "gtin": "3337871316600",
       "name": "Krem pudër Vichy Dermablend Nude 25, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 53
+      "stock_quantity": 51
     },
     {
       "gtin": "3337871328801",
@@ -1403,7 +1403,7 @@
       "name": "Krem pudër Vichy Dermablend, Sand 35, 30 ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 65
+      "stock_quantity": 64
     },
     {
       "gtin": "3337872412998",
