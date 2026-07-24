@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-23 10:00:08",
-  "supplier_file": "23.07.26.xlsx",
+  "generated_at": "2026-07-24 10:00:05",
+  "supplier_file": "24.07.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -157,7 +157,7 @@
       "name": "Krem për fytyrë Vichy Liftactiv Collagen Specialist, Night, 50ml",
       "price_with_vat": 57.22,
       "old_price_with_vat": 57.22,
-      "stock_quantity": 67
+      "stock_quantity": 65
     },
     {
       "gtin": "3337875803847",
@@ -388,7 +388,7 @@
       "name": "Sprej mbrojtës kundër diellit për fëmijë La Roche-Posay Anthelios UVMune 400 Dermo‑Pediatrics Invisible Spray SPF 50+, 200ml",
       "price_with_vat": 31.99,
       "old_price_with_vat": 31.99,
-      "stock_quantity": 33
+      "stock_quantity": 32
     },
     {
       "gtin": "3337875799348",
@@ -1186,7 +1186,7 @@
       "name": "Krem pastrues La Roche-Posay Lipikar Syndet Ap+, për lëkurë të thatë, 200 ml",
       "price_with_vat": 17.51,
       "old_price_with_vat": 17.51,
-      "stock_quantity": 61
+      "stock_quantity": 60
     },
     {
       "gtin": "3337875685818",
@@ -1319,7 +1319,7 @@
       "name": "Xhel Pastrues CeraVe Sa Smoothing Gel, 236ml",
       "price_with_vat": 14.25,
       "old_price_with_vat": 14.25,
-      "stock_quantity": 98
+      "stock_quantity": 89
     },
     {
       "gtin": "3337875597487",
