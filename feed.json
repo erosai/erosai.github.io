@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-30 10:00:09",
+  "generated_at": "2026-07-30 20:47:39",
   "supplier_file": "30.07.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
@@ -150,7 +150,7 @@
       "name": "Krem për fytyrë La Roche-Posay Lipikar Baume Light, 400ml",
       "price_with_vat": 32.75,
       "old_price_with_vat": 32.75,
-      "stock_quantity": 0
+      "stock_quantity": 100
     },
     {
       "gtin": "3337875722520",
@@ -164,7 +164,7 @@
       "name": "Krem La Roche-Posay Lipikar Baume Light Eco, 200ml",
       "price_with_vat": 27.0,
       "old_price_with_vat": 27.0,
-      "stock_quantity": 0
+      "stock_quantity": 16
     },
     {
       "gtin": "3337875806961",
@@ -192,7 +192,7 @@
       "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Vanilla 20, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 0
+      "stock_quantity": 7
     },
     {
       "gtin": "3337875660648",
@@ -290,7 +290,7 @@
       "name": "Serum për fytyrë Beauty of Joseon Soothing Face Serum Green Tea + Panthenol (Calming Serum), 30 ml",
       "price_with_vat": 19.99,
       "old_price_with_vat": 19.99,
-      "stock_quantity": 0
+      "stock_quantity": 73
     },
     {
       "gtin": "8809598450981",
@@ -535,7 +535,7 @@
       "name": "Krem mbrojtës me ngjyrë La Roche-Posay Anthelios Age Correct SPF50, 50 ml",
       "price_with_vat": 35.72,
       "old_price_with_vat": 35.72,
-      "stock_quantity": 0
+      "stock_quantity": 100
     },
     {
       "gtin": "3337875797719",
@@ -668,7 +668,7 @@
       "name": "Balsam La Roche-Posay Lipikar AP+M Triple Action Balm Eco, 200ml",
       "price_with_vat": 27.33,
       "old_price_with_vat": 27.33,
-      "stock_quantity": 0
+      "stock_quantity": 69
     },
     {
       "gtin": "3337875696838",
@@ -787,7 +787,7 @@
       "name": "Xhel La Roche-Posay Anthelios XL Wet Skin Gel, 250ml",
       "price_with_vat": 29.6,
       "old_price_with_vat": 29.6,
-      "stock_quantity": 0
+      "stock_quantity": 100
     },
     {
       "gtin": "3337871321567",
@@ -836,7 +836,7 @@
       "name": "Krem për fytyrë La Roche-Posay Effaclar Duo (+) Unifiant, Medium, 40ml",
       "price_with_vat": 25.89,
       "old_price_with_vat": 25.89,
-      "stock_quantity": 0
+      "stock_quantity": 27
     },
     {
       "gtin": "3337875774123",
@@ -906,7 +906,7 @@
       "name": "Krem për fytyrë Vichy Aqualia Thermal Light, 50ml",
       "price_with_vat": 35.33,
       "old_price_with_vat": 35.33,
-      "stock_quantity": 0
+      "stock_quantity": 33
     },
     {
       "gtin": "3337875585217",
@@ -934,7 +934,7 @@
       "name": "Serum The Ordinary Niacinamide 10% + Zinc 1%, 30ml",
       "price_with_vat": 13.99,
       "old_price_with_vat": 13.99,
-      "stock_quantity": 0
+      "stock_quantity": 21
     },
     {
       "gtin": "8809416470054",
@@ -962,7 +962,7 @@
       "name": "Krem La Roche-Posay Effaclar Duo + Unifiant Light, 40ml",
       "price_with_vat": 25.89,
       "old_price_with_vat": 25.89,
-      "stock_quantity": 0
+      "stock_quantity": 30
     },
     {
       "gtin": "3337875796583",
@@ -997,7 +997,7 @@
       "name": "Krem La Roche-Posay Anthelios Pigment Correct Color Light, SPF 50+, 50ml",
       "price_with_vat": 35.72,
       "old_price_with_vat": 35.72,
-      "stock_quantity": 0
+      "stock_quantity": 100
     },
     {
       "gtin": "3337875761031",
@@ -1011,7 +1011,7 @@
       "name": "Krem La Roche-Posay Anthelios Pigment Correct Color Medium, SPF 50+, 50ml",
       "price_with_vat": 36.3,
       "old_price_with_vat": 36.3,
-      "stock_quantity": 0
+      "stock_quantity": 100
     },
     {
       "gtin": "3337875810890",
@@ -1214,7 +1214,7 @@
       "name": "Krem për sy La Roche Posay, 15ml",
       "price_with_vat": 43.28,
       "old_price_with_vat": 43.28,
-      "stock_quantity": 0
+      "stock_quantity": 5
     },
     {
       "gtin": "3337875660549",
@@ -1431,7 +1431,7 @@
       "name": "Krem La Roche-Posay Cicaplast Baume B5, SPF 50, 40 ml",
       "price_with_vat": 17.04,
       "old_price_with_vat": 17.04,
-      "stock_quantity": 0
+      "stock_quantity": 100
     },
     {
       "gtin": "3433422404403",
