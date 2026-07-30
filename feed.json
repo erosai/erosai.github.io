@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29 22:56:56",
-  "supplier_file": "29.07.26.xlsx",
+  "generated_at": "2026-07-30 10:00:09",
+  "supplier_file": "30.07.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -185,7 +185,7 @@
       "name": "Krem për fytyrë La Roche-Posay Effaclar H Iso-Biome Lavante Cream, 200ml",
       "price_with_vat": 22.99,
       "old_price_with_vat": 22.99,
-      "stock_quantity": 63
+      "stock_quantity": 62
     },
     {
       "gtin": "3337875572606",
@@ -458,7 +458,7 @@
       "name": "Losion hidratues CeraVe Intensive Moisturising Lotion, 236ml",
       "price_with_vat": 16.99,
       "old_price_with_vat": 16.99,
-      "stock_quantity": 76
+      "stock_quantity": 75
     },
     {
       "gtin": "3337875904513",
@@ -479,7 +479,7 @@
       "name": "Pastrues për lëkurë të yndyrshme CeraVe, 1L",
       "price_with_vat": 27.81,
       "old_price_with_vat": 27.81,
-      "stock_quantity": 44
+      "stock_quantity": 43
     },
     {
       "gtin": "3337875904315",
@@ -500,14 +500,14 @@
       "name": "Serum për fytyrë CeraVe Resurfacing Retinol, 30ml",
       "price_with_vat": 23.65,
       "old_price_with_vat": 23.65,
-      "stock_quantity": 97
+      "stock_quantity": 96
     },
     {
       "gtin": "3337875598750",
       "name": "Losion-qumësht hidratues për lëkurë të thatë CeraVe, 1L",
       "price_with_vat": 34.49,
       "old_price_with_vat": 34.49,
-      "stock_quantity": 38
+      "stock_quantity": 37
     },
     {
       "gtin": "3337875597296",
@@ -703,14 +703,14 @@
       "name": "Deodorant Vichy Anti-Perspirant Treatment 7 Days, 30ml",
       "price_with_vat": 16.79,
       "old_price_with_vat": 16.79,
-      "stock_quantity": 94
+      "stock_quantity": 93
     },
     {
       "gtin": "3337871332303",
       "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Nude 25, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 24
+      "stock_quantity": 23
     },
     {
       "gtin": "3337875585187",
@@ -766,7 +766,7 @@
       "name": "Deodorant Vichy Clinical Control Deodorant 96h Women, 50ml",
       "price_with_vat": 16.79,
       "old_price_with_vat": 16.79,
-      "stock_quantity": 46
+      "stock_quantity": 45
     },
     {
       "gtin": "3337875816847",
@@ -815,7 +815,7 @@
       "name": "Pastrues për fytyrë La Roche-Posay Toleriane Dermo Milky Cleanser, 200ml",
       "price_with_vat": 22.52,
       "old_price_with_vat": 22.52,
-      "stock_quantity": 44
+      "stock_quantity": 43
     },
     {
       "gtin": "3337875731409",
@@ -878,7 +878,7 @@
       "name": "Serum për fytyrë Vichy Liftactiv Supreme HA Filler, 30ml",
       "price_with_vat": 52.41,
       "old_price_with_vat": 52.41,
-      "stock_quantity": 29
+      "stock_quantity": 28
     },
     {
       "gtin": "3337875731638",
@@ -1046,7 +1046,7 @@
       "name": "Krem Vichy Liftactiv Supreme Vitamin C Serum, 20ml",
       "price_with_vat": 44.52,
       "old_price_with_vat": 44.52,
-      "stock_quantity": 73
+      "stock_quantity": 72
     },
     {
       "gtin": "3337875550628",
@@ -1312,7 +1312,7 @@
       "name": "Krem për Sy CeraVe, 14ml",
       "price_with_vat": 20.37,
       "old_price_with_vat": 20.37,
-      "stock_quantity": 66
+      "stock_quantity": 65
     },
     {
       "gtin": "3337875684118",
@@ -1382,14 +1382,14 @@
       "name": "Deodorant Vichy Stress Resist Roll-On 72 Hours, 50 ml",
       "price_with_vat": 16.79,
       "old_price_with_vat": 16.79,
-      "stock_quantity": 36
+      "stock_quantity": 34
     },
     {
       "gtin": "3337871308612",
       "name": "Ujë termal Vichy Mineralizing, 150 ml",
       "price_with_vat": 12.88,
       "old_price_with_vat": 12.88,
-      "stock_quantity": 60
+      "stock_quantity": 58
     },
     {
       "gtin": "3337871316624",
@@ -1424,7 +1424,7 @@
       "name": "Krem La Roche-Posay Effaclar Duo (+), për lëkurë me akne, SPF 30, 40 ml",
       "price_with_vat": 29.47,
       "old_price_with_vat": 29.47,
-      "stock_quantity": 67
+      "stock_quantity": 65
     },
     {
       "gtin": "3337875517300",
