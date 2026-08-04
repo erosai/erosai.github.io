@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04 17:53:42",
+  "generated_at": "2026-08-04 17:57:11",
   "supplier_file": "31.07.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
@@ -99,7 +99,7 @@
     {
       "gtin": "3337875773447",
       "name": "Pastrues CeraVe Hydrating Foaming Oil, 473 ml",
-      "price_with_vat": 24.16,
+      "price_with_vat": 22.99,
       "old_price_with_vat": 24.16,
       "stock_quantity": 100
     },
@@ -372,7 +372,7 @@
     {
       "gtin": "3337875597395",
       "name": "Losion hidratues CeraVe Moisturizing, 473 ml",
-      "price_with_vat": 19.43,
+      "price_with_vat": 16.9,
       "old_price_with_vat": 19.43,
       "stock_quantity": 100
     },
@@ -414,7 +414,7 @@
     {
       "gtin": "3337875743563",
       "name": "Krem shkumë pastruese CeraVe, 236ml",
-      "price_with_vat": 19.88,
+      "price_with_vat": 17.29,
       "old_price_with_vat": 19.88,
       "stock_quantity": 100
     },
@@ -505,7 +505,7 @@
     {
       "gtin": "3337875598750",
       "name": "Losion-qumësht hidratues për lëkurë të thatë CeraVe, 1L",
-      "price_with_vat": 34.49,
+      "price_with_vat": 29.99,
       "old_price_with_vat": 34.49,
       "stock_quantity": 37
     },
@@ -519,7 +519,7 @@
     {
       "gtin": "3337875909235",
       "name": "Serum La Roche-Posay Pure Vitamin C12, 30ml",
-      "price_with_vat": 60.62,
+      "price_with_vat": 52.92,
       "old_price_with_vat": 60.62,
       "stock_quantity": 100
     },
@@ -575,7 +575,7 @@
     {
       "gtin": "3337875597197",
       "name": "Pastrues për lëkurë të yndyrshme CeraVe, 236 ml",
-      "price_with_vat": 15.18,
+      "price_with_vat": 13.2,
       "old_price_with_vat": 15.18,
       "stock_quantity": 96
     },
@@ -778,7 +778,7 @@
     {
       "gtin": "3337875816809",
       "name": "Krem për fytyrë La Roche-Posay Cicaplast Baume B5+, 40 ml",
-      "price_with_vat": 17.03,
+      "price_with_vat": 14.99,
       "old_price_with_vat": 17.03,
       "stock_quantity": 100
     },
@@ -1086,7 +1086,7 @@
     {
       "gtin": "3337875597319",
       "name": "Krem për duar CeraVe, 50ml",
-      "price_with_vat": 7.82,
+      "price_with_vat": 6.8,
       "old_price_with_vat": 7.82,
       "stock_quantity": 17
     },
@@ -1100,7 +1100,7 @@
     {
       "gtin": "3337875607254",
       "name": "Krem Vichy Liftactiv Collagen, 50 ml",
-      "price_with_vat": 62.86,
+      "price_with_vat": 55.18,
       "old_price_with_vat": 62.86,
       "stock_quantity": 100
     },
@@ -1156,7 +1156,7 @@
     {
       "gtin": "3337875588348",
       "name": "Krem hidratues La Roche Posay Toleriane Sensitive Riche, 40ml",
-      "price_with_vat": 26.84,
+      "price_with_vat": 25.9,
       "old_price_with_vat": 26.84,
       "stock_quantity": 100
     },
@@ -1170,7 +1170,7 @@
     {
       "gtin": "3337872414145",
       "name": "Krem për duar La Roche Posay, 50ml",
-      "price_with_vat": 14.03,
+      "price_with_vat": 12.2,
       "old_price_with_vat": 14.03,
       "stock_quantity": 82
     },
@@ -1233,7 +1233,7 @@
     {
       "gtin": "3337875578486",
       "name": "Krem hidratues La Roche Posay Toleriane Sensitive, 40ml",
-      "price_with_vat": 29.78,
+      "price_with_vat": 25.9,
       "old_price_with_vat": 29.78,
       "stock_quantity": 100
     },
@@ -1268,7 +1268,7 @@
     {
       "gtin": "3337875597227",
       "name": "Krem hidratues për lëkurë të thatë CeraVe, 340 g",
-      "price_with_vat": 20.53,
+      "price_with_vat": 17.9,
       "old_price_with_vat": 20.53,
       "stock_quantity": 69
     },
@@ -1296,7 +1296,7 @@
     {
       "gtin": "3337875597357",
       "name": "Pastrues për lëkurë të yndyrshme CeraVe Foaming Cleanser, 473 ml",
-      "price_with_vat": 21.84,
+      "price_with_vat": 18.99,
       "old_price_with_vat": 21.84,
       "stock_quantity": 100
     },
@@ -1310,14 +1310,14 @@
     {
       "gtin": "3337875597272",
       "name": "Krem për Sy CeraVe, 14ml",
-      "price_with_vat": 20.37,
+      "price_with_vat": 19.8,
       "old_price_with_vat": 20.37,
       "stock_quantity": 65
     },
     {
       "gtin": "3337875684118",
       "name": "Xhel Pastrues CeraVe Sa Smoothing Gel, 236ml",
-      "price_with_vat": 16.56,
+      "price_with_vat": 14.4,
       "old_price_with_vat": 16.56,
       "stock_quantity": 100
     },
