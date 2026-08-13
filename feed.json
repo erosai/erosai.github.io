@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12 11:24:24",
+  "generated_at": "2026-08-13 09:56:11",
   "supplier_file": "12.08.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
@@ -36,7 +36,7 @@
     {
       "gtin": "3337875814652",
       "name": "Krem për fytyrë CeraVe AM Facial Moisturising Lotion SPF50, 52 ml",
-      "price_with_vat": 20.32,
+      "price_with_vat": 18.99,
       "old_price_with_vat": 20.32,
       "stock_quantity": 79
     },
@@ -85,7 +85,7 @@
     {
       "gtin": "3337875917407",
       "name": "Krem dielli La Roche Posay Anthelios Anti Dark Spot Fluid, SPF50+, 50ml",
-      "price_with_vat": 32.09,
+      "price_with_vat": 29.99,
       "old_price_with_vat": 32.09,
       "stock_quantity": 100
     },
@@ -554,14 +554,14 @@
     {
       "gtin": "3337875876940",
       "name": "Krem La Roche-Posay Cicaplast Repairing Baume B5+ SPF50, 40ml",
-      "price_with_vat": 20.08,
+      "price_with_vat": 18.77,
       "old_price_with_vat": 20.08,
       "stock_quantity": 100
     },
     {
       "gtin": "3337875863377",
       "name": "Kremë kundër akneve La Roche-Posay Effaclar Duo +M, 40ml",
-      "price_with_vat": 27.73,
+      "price_with_vat": 25.92,
       "old_price_with_vat": 27.73,
       "stock_quantity": 100
     },
@@ -771,7 +771,7 @@
     {
       "gtin": "3337875816847",
       "name": "Krem La Roche-Posay Cicaplast Baume B5+, 100ml",
-      "price_with_vat": 23.53,
+      "price_with_vat": 21.99,
       "old_price_with_vat": 23.53,
       "stock_quantity": 100
     },
@@ -1093,7 +1093,7 @@
     {
       "gtin": "3337875777797",
       "name": "Krem hidratues La Roche Posay Effaclar H Iso-Biome, 40ml",
-      "price_with_vat": 30.73,
+      "price_with_vat": 28.72,
       "old_price_with_vat": 30.73,
       "stock_quantity": 100
     },
@@ -1121,7 +1121,7 @@
     {
       "gtin": "3337872411991",
       "name": "Xhel Pastrues La Roche-Posay Effaclar Foaming Gel, 400ml",
-      "price_with_vat": 27.87,
+      "price_with_vat": 26.05,
       "old_price_with_vat": 27.87,
       "stock_quantity": 100
     },
@@ -1331,7 +1331,7 @@
     {
       "gtin": "3337875598996",
       "name": "Krem Hidratues CeraVe, 177ml",
-      "price_with_vat": 12.7,
+      "price_with_vat": 11.87,
       "old_price_with_vat": 12.7,
       "stock_quantity": 100
     },
