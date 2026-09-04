@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03 10:00:05",
-  "supplier_file": "03.09.26.xlsx",
+  "generated_at": "2026-09-04 11:00:10",
+  "supplier_file": "04.09.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 208,
   "items": [
@@ -122,7 +122,7 @@
       "name": "Krem për fytyrë Vichy Liftactiv B3 Anti-Dark Spots Cream SPF50, 50ml",
       "price_with_vat": 54.92,
       "old_price_with_vat": 54.92,
-      "stock_quantity": 76
+      "stock_quantity": 75
     },
     {
       "gtin": "3337875810838",
@@ -136,7 +136,7 @@
       "name": "Krem për fytyrë La Roche Posay Rosaliac Anti-Redness Correcting Moisturizer, 40 ml",
       "price_with_vat": 33.1,
       "old_price_with_vat": 33.1,
-      "stock_quantity": 9
+      "stock_quantity": 8
     },
     {
       "gtin": "3337875863964",
@@ -220,7 +220,7 @@
       "name": "Serum për fytyrë Vichy Liftactiv Retinol Specialist Serum, 30ml",
       "price_with_vat": 51.0,
       "old_price_with_vat": 51.0,
-      "stock_quantity": 49
+      "stock_quantity": 48
     },
     {
       "gtin": "3337875831888",
@@ -528,7 +528,7 @@
       "name": "Krem mbrojtës me ngjyrë La Roche Posay Anthelios UVmune 400 Tinted Fluid SPF50+, 50ml",
       "price_with_vat": 28.63,
       "old_price_with_vat": 28.63,
-      "stock_quantity": 71
+      "stock_quantity": 69
     },
     {
       "gtin": "3337875764353",
@@ -577,7 +577,7 @@
       "name": "Pastrues për lëkurë të yndyrshme CeraVe, 236 ml",
       "price_with_vat": 12.49,
       "old_price_with_vat": 15.18,
-      "stock_quantity": 87
+      "stock_quantity": 86
     },
     {
       "gtin": "3337875797597",
@@ -598,7 +598,7 @@
       "name": "Pudër e lëngshme Vichy Dermablend 3D Correction, Sand 35, 30ml",
       "price_with_vat": 33.5,
       "old_price_with_vat": 33.5,
-      "stock_quantity": 8
+      "stock_quantity": 6
     },
     {
       "gtin": "3337875774017",
@@ -808,7 +808,7 @@
       "name": "Xhel pastrues për fytyrë Vichy Normaderm Phytosolution, 400ml",
       "price_with_vat": 29.79,
       "old_price_with_vat": 29.79,
-      "stock_quantity": 43
+      "stock_quantity": 42
     },
     {
       "gtin": "3433422406599",
@@ -857,7 +857,7 @@
       "name": "Serum për fytyrë Vichy Mineral 89 Eyes Fortifier, 15ml",
       "price_with_vat": 24.91,
       "old_price_with_vat": 24.91,
-      "stock_quantity": 43
+      "stock_quantity": 42
     },
     {
       "gtin": "3337871328795",
@@ -1179,7 +1179,7 @@
       "name": "Krem anti-rrudhë La Roche Posay, 40ml",
       "price_with_vat": 37.44,
       "old_price_with_vat": 37.44,
-      "stock_quantity": 17
+      "stock_quantity": 16
     },
     {
       "gtin": "3337875537308",
