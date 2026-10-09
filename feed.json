@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09 14:08:08",
+  "generated_at": "2026-10-09 14:10:08",
   "supplier_file": "09.10.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 265,
@@ -771,7 +771,7 @@
     {
       "gtin": "3337875816847",
       "name": "Krem La Roche-Posay Cicaplast Baume B5+, 100ml",
-      "price_with_vat": 18.99,
+      "price_with_vat": 21.99,
       "old_price_with_vat": 23.53,
       "stock_quantity": 100
     },
