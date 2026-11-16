@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13 14:00:07",
-  "supplier_file": "13.11.26.xlsx",
+  "generated_at": "2026-11-16 11:00:31",
+  "supplier_file": "16.11.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 268,
   "items": [
@@ -353,7 +353,7 @@
       "name": "Losion La Roche Posay Lipikar Baume Ap+M, 400ml",
       "price_with_vat": 32.09,
       "old_price_with_vat": 33.82,
-      "stock_quantity": 117
+      "stock_quantity": 118
     },
     {
       "gtin": "3337875586283",
@@ -521,7 +521,7 @@
       "name": "Serum La Roche-Posay Pure Vitamin C12, 30ml",
       "price_with_vat": 50.29,
       "old_price_with_vat": 60.62,
-      "stock_quantity": 124
+      "stock_quantity": 125
     },
     {
       "gtin": "3337875797641",
@@ -556,7 +556,7 @@
       "name": "Krem La Roche-Posay Cicaplast Repairing Baume B5+ SPF50, 40ml",
       "price_with_vat": 17.79,
       "old_price_with_vat": 20.08,
-      "stock_quantity": 2138
+      "stock_quantity": 2137
     },
     {
       "gtin": "3337875863377",
