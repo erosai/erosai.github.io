@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19 15:00:09",
-  "supplier_file": "19.11.26.xlsx",
+  "generated_at": "2026-11-20 09:00:05",
+  "supplier_file": "20.11.26.xlsx",
   "template_file": "Përditësimi i çmimit dhe inventarit (12).xlsx",
   "items_count": 268,
   "items": [
@@ -556,14 +556,14 @@
       "name": "Krem La Roche-Posay Cicaplast Repairing Baume B5+ SPF50, 40ml",
       "price_with_vat": 17.79,
       "old_price_with_vat": 20.08,
-      "stock_quantity": 2072
+      "stock_quantity": 2069
     },
     {
       "gtin": "3337875863377",
       "name": "Kremë kundër akneve La Roche-Posay Effaclar Duo +M, 40ml",
       "price_with_vat": 27.73,
       "old_price_with_vat": 27.73,
-      "stock_quantity": 437
+      "stock_quantity": 435
     },
     {
       "gtin": "3337875597449",
@@ -584,7 +584,7 @@
       "name": "Krem mbrojtës ndaj diellit për fytyrë La Roche Posay Fluid SPF 50+ Anthelios UVMune 400, 50 ml",
       "price_with_vat": 28.63,
       "old_price_with_vat": 28.63,
-      "stock_quantity": 1549
+      "stock_quantity": 1550
     },
     {
       "gtin": "3337875414067",
@@ -773,14 +773,14 @@
       "name": "Krem La Roche-Posay Cicaplast Baume B5+, 100ml",
       "price_with_vat": 21.99,
       "old_price_with_vat": 23.53,
-      "stock_quantity": 1429
+      "stock_quantity": 1424
     },
     {
       "gtin": "3337875816809",
       "name": "Krem për fytyrë La Roche-Posay Cicaplast Baume B5+, 40 ml",
       "price_with_vat": 14.99,
       "old_price_with_vat": 17.03,
-      "stock_quantity": 1080
+      "stock_quantity": 1079
     },
     {
       "gtin": "3337875548533",
@@ -1067,7 +1067,7 @@
       "name": "Pastrues La Roche Posay Toleriane Caring Wash, 400ml",
       "price_with_vat": 25.69,
       "old_price_with_vat": 25.69,
-      "stock_quantity": 42
+      "stock_quantity": 41
     },
     {
       "gtin": "3337872413711",
@@ -1130,7 +1130,7 @@
       "name": "Xhel pastrues La Roche-Posay Effaclar Micro-Peeling Purifying, 400 ml",
       "price_with_vat": 30.87,
       "old_price_with_vat": 30.87,
-      "stock_quantity": 243
+      "stock_quantity": 241
     },
     {
       "gtin": "3337875708265",
@@ -1347,7 +1347,7 @@
       "name": "Serum La Roche-Posay Retinol B3, 30ml",
       "price_with_vat": 52.92,
       "old_price_with_vat": 52.92,
-      "stock_quantity": 116
+      "stock_quantity": 115
     },
     {
       "gtin": "3337875722827",
@@ -1690,7 +1690,7 @@
       "name": "Xhel pastrues fytyre CeraVe Blemish Control Cleanser, lëkurë akneike, 473ml, i bardhë",
       "price_with_vat": 20.8,
       "old_price_with_vat": 20.8,
-      "stock_quantity": 44
+      "stock_quantity": 38
     },
     {
       "gtin": "3337875925341",
